@@ -198,7 +198,7 @@ header .device-container .screen img {
   header .header-content {
     text-align: left;
     padding: 0;
-    height: 100vh;
+    height: 500px;
   }
   header .header-content .header-content-inner {
     max-width: none;
