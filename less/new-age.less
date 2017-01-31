@@ -50,8 +50,6 @@ p {
 // Navigation
 
 .navbar-default {
-    background-color: white;
-    border-color: fade(@gray-darker, 5%);
     .transition-all;
     .heading-font;
     .navbar-header .navbar-brand {
@@ -96,17 +94,17 @@ p {
         background-color: transparent;
         border-color: transparent;
         .navbar-header .navbar-brand {
-            color: fade(white, 70%);
+            color: fade(@gray-darker, 70%);
             &:hover,
             &:focus {
-                color: white;
+                color: @gray-darker;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: fade(white, 70%);
+            color: fade(@gray-darker, 70%);
             &:hover {
-                color: white;
+                color: @gray-darker;
             }
         }
         &.affix {
@@ -133,22 +131,20 @@ p {
 // Homepage Header
 
 header {
+    padding-top: 50px;
     position: relative;
     width: 100%;
     min-height: auto;
     overflow-y: hidden;
-    background: @theme-secondary; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, @theme-secondary , @theme-tertiary); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, @theme-secondary , @theme-tertiary); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: white;
+    color: @gray-darker;
     .header-content {
         text-align: center;
-        padding: 150px 0 50px;
         position: relative;
         .header-content-inner {
             position: relative;
             max-width: 500px;
             margin: 0 auto;
+            width: 100%;
             h1 {
                 margin-top: 0;
                 margin-bottom: 30px;
@@ -161,6 +157,14 @@ header {
                     margin-bottom: 25px;
                 }
             }
+        }
+
+        @media (max-width: 991px) {
+            padding: 30px 0;
+        }
+
+        @media (min-width: 992px) {
+            padding: 150px 0 50px;
         }
     }
     .device-container {
@@ -435,6 +439,11 @@ footer {
 .btn-xl {
     padding: 15px 45px;
     font-size: 11px;
+}
+
+.btn-outline {
+    border-color: @gray-darker;
+    color: @gray-darker;
 }
 
 // Extras
