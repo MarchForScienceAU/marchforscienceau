@@ -400,10 +400,23 @@ footer {
     background: linear-gradient(@theme-primary , darken(@theme-primary, 5%));
 }
 
+.bg-secondary {
+    background: @theme-secondary;
+    background: -webkit-linear-gradient(@theme-secondary , darken(@theme-secondary, 5%));
+    background: linear-gradient(@theme-secondary , darken(@theme-secondary, 5%));
+    color: @theme-clear;
+}
+
 .bg-tertiary {
     background: @theme-tertiary;
     background: -webkit-linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     background: linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
+}
+
+.bg-clear {
+    background: @theme-clear;
+    background: -webkit-linear-gradient(@theme-clear , darken(@theme-clear, 5%));
+    background: linear-gradient(@theme-clear , darken(@theme-clear, 5%));
 }
 
 .text-primary {

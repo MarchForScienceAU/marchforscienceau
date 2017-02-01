@@ -397,10 +397,21 @@ footer ul li a.active {
   background: -webkit-linear-gradient(#E9674D, #e65436);
   background: linear-gradient(#E9674D, #e65436);
 }
+.bg-secondary {
+  background: #00517F;
+  background: -webkit-linear-gradient(#00517F, #004166);
+  background: linear-gradient(#00517F, #004166);
+  color: #FFFFFF;
+}
 .bg-tertiary {
   background: #34BEBD;
   background: -webkit-linear-gradient(#34BEBD, #2faaa9);
   background: linear-gradient(#34BEBD, #2faaa9);
+}
+.bg-clear {
+  background: #FFFFFF;
+  background: -webkit-linear-gradient(#FFFFFF, #f2f2f2);
+  background: linear-gradient(#FFFFFF, #f2f2f2);
 }
 .text-primary {
   color: #E9674D;
