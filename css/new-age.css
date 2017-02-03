@@ -253,6 +253,11 @@ section.download .badges .badge-link img {
     font-size: 70px;
   }
 }
+@media (max-width: 480px) {
+  section#acknowledgment h2 {
+    font-size: 40px;
+  }
+}
 section.features .section-heading {
   margin-bottom: 100px;
 }
