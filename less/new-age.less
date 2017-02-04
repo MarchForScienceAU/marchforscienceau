@@ -432,11 +432,19 @@ ul.list-social {
                 }
             }
         }
+        &.social-instagram {
+            a {
+                background-color: @brand-instagram;
+                &:hover {
+                    background-color: darken(@brand-instagram, 5%);
+                }
+            }
+        }
         &.social-mail {
             a {
-                background-color: @brand-google-plus;
+                background-color: @theme-grey;
                 &:hover {
-                    background-color: darken(@brand-google-plus, 5%);
+                    background-color: darken(@theme-grey, 5%);
                 }
             }
         }
