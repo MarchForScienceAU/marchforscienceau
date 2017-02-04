@@ -271,6 +271,9 @@ section#mission.features {
 section#mission.features .section-heading {
   margin-bottom: 50px;
 }
+section#mission.features .feature-item {
+  margin-bottom: 50px;
+}
 section#mission.features .feature-item i {
   font-size: 40px;
   background: -webkit-linear-gradient(to top, #34BEBD, #FFFFFF);
