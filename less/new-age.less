@@ -22,9 +22,9 @@ a {
 }
 
 hr {
-    max-width: 100px;
+    max-width: 250px;
     margin: 25px auto 0;
-    border-width: 1px;
+    border-width: 4px;
     border-color: fade(@gray-darker, 10%);
 }
 
@@ -201,7 +201,22 @@ header {
             font-size: 50px;
         }
     }
+    ul.list-social {
+        padding-top: 50px;
+        li {
+            a {
+                display: block;
+                height: 40px;
+                width: 40px;
+                line-height: 40px;
+                font-size: 20px;
+                border-radius: 100%;
+                color: white;
+            }
+        }
+    }
 }
+
 
 // Sections
 
@@ -238,6 +253,22 @@ section.download {
     @media(min-width: 768px) {
         h2 {
             font-size: 70px;
+        }
+    }
+}
+
+section#mission.features {
+    padding-bottom: 50px;
+    .section-heading {
+        margin-bottom: 50px;
+    }
+    .feature-item {
+        i {
+            font-size: 40px;
+              background: -webkit-linear-gradient(to top, @theme-tertiary , @theme-clear);
+              background: linear-gradient(to top, @theme-tertiary , @theme-clear);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
         }
     }
 }
@@ -279,8 +310,8 @@ section.features {
         }
         i {
             font-size: 40px;
-              background: -webkit-linear-gradient(to left, @theme-secondary , @theme-tertiary);
-              background: linear-gradient(to left, @theme-secondary , @theme-tertiary);
+              background: -webkit-linear-gradient(to top, @theme-primary , @theme-tertiary);
+              background: linear-gradient(to top, @theme-primary , @theme-tertiary);
               -webkit-background-clip: text;
               -webkit-text-fill-color: transparent;
         }
@@ -334,44 +365,6 @@ section.contact {
             color: @brand-google-plus;
         }
     }
-    ul.list-social {
-        margin-bottom: 0;
-        li {
-            a {
-                display: block;
-                height: 80px;
-                width: 80px;
-                line-height: 80px;
-                font-size: 40px;
-                border-radius: 100%;
-                color: white;
-            }
-            &.social-twitter {
-                a {
-                    background-color: @brand-twitter;
-                    &:hover {
-                        background-color: darken(@brand-twitter, 5%);
-                    }
-                }
-            }
-            &.social-facebook {
-                a {
-                    background-color: @brand-facebook;
-                    &:hover {
-                        background-color: darken(@brand-facebook, 5%);
-                    }
-                }
-            }
-            &.social-google-plus {
-                a {
-                    background-color: @brand-google-plus;
-                    &:hover {
-                        background-color: darken(@brand-google-plus, 5%);
-                    }
-                }
-            }
-        }
-    }
 }
 
 footer {
@@ -394,6 +387,56 @@ footer {
                 &:active,
                 &.active {
                     text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+// Social and misc icon lists
+
+
+ul.list-social {
+    margin-bottom: 0;
+    li {
+        a {
+            display: block;
+            height: 80px;
+            width: 80px;
+            line-height: 80px;
+            font-size: 40px;
+            border-radius: 100%;
+            color: white;
+        }
+        &.social-twitter {
+            a {
+                background-color: @brand-twitter;
+                &:hover {
+                    background-color: darken(@brand-twitter, 5%);
+                }
+            }
+        }
+        &.social-facebook {
+            a {
+                background-color: @brand-facebook;
+                &:hover {
+                    background-color: darken(@brand-facebook, 5%);
+                }
+            }
+        }
+        &.social-google-plus {
+            a {
+                background-color: @brand-google-plus;
+                &:hover {
+                    background-color: darken(@brand-google-plus, 5%);
+                }
+            }
+        }
+        &.social-mail {
+            a {
+                background-color: @brand-google-plus;
+                &:hover {
+                    background-color: darken(@brand-google-plus, 5%);
                 }
             }
         }
