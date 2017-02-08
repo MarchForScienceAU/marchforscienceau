@@ -366,6 +366,16 @@ section.contact {
             color: @brand-google-plus;
         }
     }
+    a {
+        color: fade(white, 80%);
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+            border-bottom: 3px solid;
+        }
+    }
 }
 
 footer {
