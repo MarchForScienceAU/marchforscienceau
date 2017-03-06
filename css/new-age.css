@@ -25,9 +25,6 @@ body {
   font-family: 'Open Sans', 'Helvetica', 'Arial', 'sans-serif';
 }
 a {
-  -webkit-transition: all 0.35s;
-  -moz-transition: all 0.35s;
-  transition: all 0.35s;
   color: #E9674D;
 }
 a:hover,
@@ -276,8 +273,7 @@ section#mission.features .feature-item {
 }
 section#mission.features .feature-item i {
   font-size: 40px;
-  background: -webkit-linear-gradient(to top, #34BEBD, #FFFFFF);
-  background: linear-gradient(to top, #34BEBD, #FFFFFF);
+  background: white;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -452,6 +448,16 @@ ul.list-social li.social-mail a:hover {
   background: -webkit-linear-gradient(#E9674D, #e65436);
   background: linear-gradient(#E9674D, #e65436);
 }
+.bg-primary a {
+  color: rgba(255, 255, 255, 0.8);
+}
+.bg-primary a:hover,
+.bg-primary a:focus,
+.bg-primary a:active,
+.bg-primary a.active {
+  text-decoration: none;
+  border-bottom: 3px solid;
+}
 .bg-secondary {
   background: #00517F;
   background: -webkit-linear-gradient(#00517F, #004166);
@@ -459,6 +465,7 @@ ul.list-social li.social-mail a:hover {
   color: #FFFFFF;
 }
 .bg-tertiary {
+  color: #fff;
   background: #34BEBD;
   background: -webkit-linear-gradient(#34BEBD, #2faaa9);
   background: linear-gradient(#34BEBD, #2faaa9);
@@ -522,4 +529,20 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+.hero-overlay {
+  background: url('/img/tiles/shattered-dark.png') repeat;
+  background-size: 25%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+.city-heading-text {
+  color: white;
+  font-weight: 800;
+}
+.maps iframe {
+  pointer-events: none;
 }

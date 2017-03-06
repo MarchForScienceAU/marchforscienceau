@@ -1,0 +1,60 @@
+---
+layout: cities
+city: sydney
+title: March for Science Sydney
+permalink: /sydney/
+hero: /img/heros/sydney-hero-px.jpg
+---
+
+{% assign city = site.data.cities[page.city] %}
+
+<section id="details" class="features">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Event Details</h2>
+                <h3>Martin Place</h3>
+                <p class="text-muted">Saturday 22 April 2017 <br> 12PM - 2:30PM AEST</p>
+                {% if city.eventbrite %}
+                <h4><a href="{{city.eventbrite}}" target="_blank">RSVP</a></h4>
+                {% endif %}
+                <hr>
+                <br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <p class="text-muted">The march will begin at midday with talks at Martin Place (Phillip St).</p>
+                
+                <p class="text-muted">The march will take Phillip St north, turn right (east) onto Hunter St, right (south) onto Macquarie St, and end at Hyde Park North. This route passes the Library of NSW and NSW Parliament house.</p>
+
+                <p class="text-muted">Attendees are welcome to take a shorter route by moving through Martin Place to Macqaurie St.</p>
+
+                <p class="text-muted">Public toilets are available inside Martin Place Station and St James Station, and above ground near the Macquarie St entrace to Hyde Park. Both stations have lifts.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center maps">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.851971114704!2d151.20766665047677!3d-33.867705626337866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae40185af675%3A0xf9c9d701d4f2b3c2!2sMartin+Pl%2C+Sydney+NSW+2000!5e0!3m2!1sen!2sau!4v1488548169813" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Speakers</h2>
+                <p>TBA</p>
+            </div>
+            <div class="col-lg-12 text-center">
+                <h2>Partners</h2>
+                <p>TBA</p>
+            </div>
+            <div class="col-lg-12 text-center">
+                <h2>Sponsors</h2>
+                <p>TBA</p>
+            </div>
+            <div class="col-lg-12 text-center">
+                <p>Not in {{ city.name }}? We're organising science marches all across Australia!</p>
+                <p>See the <a href="https://marchforscienceaustralia.org">March For Science Australia</a> page for more details!</p>
+            </div>
+        </div>
+    </div>
+</section>

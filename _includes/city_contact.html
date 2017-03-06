@@ -1,0 +1,30 @@
+{% assign city = site.data.cities[page.city] %}
+<section id="contact" class="contact bg-tertiary">
+    <div class="container">
+        <h2>Get in touch with us</h2>
+        <ul class="list-inline list-social">
+            {% if city.facebook %}
+            <li class="social-facebook">
+                <a href="https://www.facebook.com/MarchForScienceSydney/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+            </li>
+            {% endif %}
+            {% if city.twitter %}
+            <li class="social-twitter">
+                <a href="https://twitter.com/ScienceMarchSyd" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+            </li>
+            {% endif %}
+            {% if city.email %}
+            <li class="social-mail">
+                <a href="mailto:sydney@marchforscienceaustralia.org" title="email" target="_blank"><i class="fa fa-envelope"></i></a>
+            </li>
+            {% endif %}
+        </ul>
+        <br>
+
+        {% if city.email %}
+        <p>Please direct all {{ city.name }} media enquires to:<br><a href="mailto:{{ city.email }}" title="email" target="_blank">{{ city.email }}</a></p>
+        {% endif %}
+
+        <p>For national media enquires, please direct them to:<br><a href="mailto:media@marchforscienceaustralia.org" title="email" target="_blank">media@marchforscienceaustralia.org</a></p>
+    </div>
+</section>

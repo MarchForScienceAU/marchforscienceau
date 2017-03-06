@@ -1,0 +1,70 @@
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="author" content="March for Science Australia">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <!-- Facebook Meta -->
+    <meta property="og:title" content="March for Science Australia">
+    <meta property="og:site_name" content="March for Science Australia">
+    <meta property="og:description" content="It is time for scientists, science enthusiasts, and concerned citizens to come together to make ourselves heard.">
+    <meta property="og:image" content="https://marchforscienceaustralia.org/img/social.jpg">
+    <meta property="og:url" content="https://marchforscienceaustralia.org">
+
+    <!-- Twitter Meta -->
+    <meta name="twitter:title" content="March for Science Australia">
+    <meta name="twitter:image:alt" content="March for Science Australia Logo">
+    <meta name="twitter:description" content="It is time for scientists, science enthusiasts, and concerned citizens to come together to make ourselves heard.">
+    <meta name="twitter:image" content="https://marchforscienceaustralia.org/img/social.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="shortcut icon" href="{{ "/favicon.ico?v=2.0" | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="icon" href="{{ "/favicon.ico?v=2.0" | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16" />
+
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ "/vendor/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="{{ "/vendor/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/vendor/simple-line-icons/css/simple-line-icons.css" | prepend: site.baseurl }}">
+
+    <!-- Theme CSS -->
+    <link href="{{ "/css/new-age.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+
+    <!-- Custom CSS
+    <link rel="stylesheet" href="css/main.css" type="text/css"> -->
+    <!-- <link href="/css/main.css" rel="stylesheet"> -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    {% if site.google_analytics %}
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+
+</head>

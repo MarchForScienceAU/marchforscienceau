@@ -13,7 +13,6 @@ body {
 }
 
 a {
-    .transition-all;
     color: @theme-primary;
     &:hover,
     &:focus {
@@ -47,7 +46,7 @@ p {
     margin-bottom: 20px;
 }
 
-// Navigation
+// xigation
 
 .navbar-default {
     .transition-all;
@@ -266,8 +265,7 @@ section#mission.features {
         margin-bottom: 50px;
         i {
             font-size: 40px;
-              background: -webkit-linear-gradient(to top, @theme-tertiary , @theme-clear);
-              background: linear-gradient(to top, @theme-tertiary , @theme-clear);
+              background: white;
               -webkit-background-clip: text;
               -webkit-text-fill-color: transparent;
         }
@@ -311,10 +309,10 @@ section.features {
         }
         i {
             font-size: 40px;
-              background: -webkit-linear-gradient(to top, @theme-primary , @theme-tertiary);
-              background: linear-gradient(to top, @theme-primary , @theme-tertiary);
-              -webkit-background-clip: text;
-              -webkit-text-fill-color: transparent;
+            background: -webkit-linear-gradient(to top, @theme-primary , @theme-tertiary);
+            background: linear-gradient(to top, @theme-primary , @theme-tertiary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
     }
     @media(min-width: 992px) {
@@ -468,6 +466,16 @@ ul.list-social {
     background: @theme-primary;
     background: -webkit-linear-gradient(@theme-primary , darken(@theme-primary, 5%));
     background: linear-gradient(@theme-primary , darken(@theme-primary, 5%));
+    a {
+        color: fade(white, 80%);
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+            border-bottom: 3px solid;
+        }
+    }
 }
 
 .bg-secondary {
@@ -478,6 +486,7 @@ ul.list-social {
 }
 
 .bg-tertiary {
+    color: #fff;
     background: @theme-tertiary;
     background: -webkit-linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     background: linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
@@ -554,4 +563,23 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: @gray-darker;
+}
+
+.hero-overlay {
+    background:url('/img/tiles/shattered-dark.png') repeat;
+    background-size: 25%;
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+}
+
+.city-heading-text {
+    color: white;
+    font-weight: 800;
+}
+
+.maps iframe {
+    pointer-events: none;
 }
