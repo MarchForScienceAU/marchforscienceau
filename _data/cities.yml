@@ -1,47 +1,21 @@
-sydney:
-  name: Sydney
-  website: ./sydney
-  facebook: https://www.facebook.com/MarchForScienceSydney/
-  twitter: https://twitter.com/ScienceMarchSyd
-  email: sydney@marchforscienceaustralia.org
-  eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
-  donation: 
-melbourne:
-  name: Melbourne
-  # website: ./melbourne
-  facebook: https://www.facebook.com/ScienceMarchMelb/
-  twitter: https://twitter.com/ScienceMarchMel
-  email: melbourne@marchforscienceaustralia.org
-canberra:
-  name: Canberra
-  website: http://marchforsciencecanberra.org/
-  facebook: https://www.facebook.com/ScienceMarchCBR/
-  twitter: https://twitter.com/ScienceMarchCBR
-  email: canberra@marchforscienceaustralia.org
-perth:
-  name: Perth
-  # website: ./perth
-  facebook: https://www.facebook.com/MarchForSciencePerthWA/
-  twitter: https://twitter.com/SciMarchPerth
-  email: perth@marchforscienceaustralia.org
 adelaide:
   name: Adelaide
   # website: ./adelaide
   facebook: https://www.facebook.com/MarchforScienceAdelaide/
   twitter: https://twitter.com/SciRallyAdel
   email: adelaide@marchforscienceaustralia.org
-townsville:
-  name: Townsville
-  website: http://marchforsciencetownsville.org/
-  facebook: https://www.facebook.com/MarchForScienceTSV/
-  twitter: https://twitter.com/ScienceMarchTSV
-  email: townsville@marchforscienceaustralia.org
 brisbane:
   name: Brisbane
   # website: ./brisbane
   facebook: https://www.facebook.com/sciencemarchbne/
   twitter: https://twitter.com/ScienceMarchBNE
   email: brisbane@marchforscienceaustralia.org
+canberra:
+  name: Canberra
+  website: http://marchforsciencecanberra.org/
+  facebook: https://www.facebook.com/ScienceMarchCBR/
+  twitter: https://twitter.com/ScienceMarchCBR
+  email: canberra@marchforscienceaustralia.org
 hobart:
   name: Hobart
   # website: ./hobart
@@ -54,3 +28,29 @@ launceston:
   facebook: https://www.facebook.com/MarchforScienceLaunceston/
   twitter: https://twitter.com/SciMarchLton
   email: launceston@marchforscienceaustralia.org
+melbourne:
+  name: Melbourne
+  # website: ./melbourne
+  facebook: https://www.facebook.com/ScienceMarchMelb/
+  twitter: https://twitter.com/ScienceMarchMel
+  email: melbourne@marchforscienceaustralia.org
+perth:
+  name: Perth
+  # website: ./perth
+  facebook: https://www.facebook.com/MarchForSciencePerthWA/
+  twitter: https://twitter.com/SciMarchPerth
+  email: perth@marchforscienceaustralia.org
+sydney:
+  name: Sydney
+  website: ./sydney
+  facebook: https://www.facebook.com/MarchForScienceSydney/
+  twitter: https://twitter.com/ScienceMarchSyd
+  email: sydney@marchforscienceaustralia.org
+  eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
+  donation: 
+townsville:
+  name: Townsville
+  website: http://marchforsciencetownsville.org/
+  facebook: https://www.facebook.com/MarchForScienceTSV/
+  twitter: https://twitter.com/ScienceMarchTSV
+  email: townsville@marchforscienceaustralia.org
