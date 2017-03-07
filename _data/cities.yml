@@ -15,7 +15,7 @@ cairns:
   # website: ./cairns
   facebook: https://www.facebook.com/MarchforScienceGBR
   twitter: https://twitter.com/ScienceMarchGBR
-  # email: canberra@marchforscienceaustralia.org
+  # email: cairns@marchforscienceaustralia.org
 canberra:
   name: Canberra
   website: http://marchforsciencecanberra.org/
@@ -53,7 +53,8 @@ sydney:
   twitter: https://twitter.com/ScienceMarchSyd
   email: sydney@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
-  donation: 
+  # donation: 
+  # merch: 
 townsville:
   name: Townsville
   website: http://marchforsciencetownsville.org/
