@@ -10,6 +10,12 @@ brisbane:
   facebook: https://www.facebook.com/sciencemarchbne/
   twitter: https://twitter.com/ScienceMarchBNE
   email: brisbane@marchforscienceaustralia.org
+cairns:
+  name: Cairns
+  # website: ./cairns
+  facebook: https://www.facebook.com/MarchforScienceGBR
+  twitter: https://twitter.com/ScienceMarchGBR
+  # email: canberra@marchforscienceaustralia.org
 canberra:
   name: Canberra
   website: http://marchforsciencecanberra.org/
