@@ -12,7 +12,7 @@ brisbane:
   email: brisbane@marchforscienceaustralia.org
 cairns:
   name: Cairns
-  # website: ./cairns
+  website: ./cairns
   facebook: https://www.facebook.com/MarchforScienceGBR
   twitter: https://twitter.com/ScienceMarchGBR
   email: cairns@marchforscienceaustralia.org
