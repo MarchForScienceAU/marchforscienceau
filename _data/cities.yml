@@ -6,7 +6,7 @@ adelaide:
   email: adelaide@marchforscienceaustralia.org
 brisbane:
   name: Brisbane
-  # website: ./brisbane
+  website: ./brisbane
   facebook: https://www.facebook.com/sciencemarchbne/
   twitter: https://twitter.com/ScienceMarchBNE
   email: brisbane@marchforscienceaustralia.org
