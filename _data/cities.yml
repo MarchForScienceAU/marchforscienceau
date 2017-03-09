@@ -41,6 +41,11 @@ melbourne:
   facebook: https://www.facebook.com/ScienceMarchMelb/
   twitter: https://twitter.com/ScienceMarchMel
   email: melbourne@marchforscienceaustralia.org
+newcastle:
+  name: Newcastle
+  # website: ./newcastle
+  facebook: https://www.facebook.com/events/1811136289147054/
+  email: newcastle@marchforscienceaustralia.org
 perth:
   name: Perth
   # website: ./perth
