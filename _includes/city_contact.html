@@ -5,26 +5,31 @@
         <ul class="list-inline list-social">
             {% if city.facebook %}
             <li class="social-facebook">
-                <a href="https://www.facebook.com/MarchForScienceSydney/" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="{{ city.facebook }}" title="{{ city.name }} Facebook" alt="{{ city.name }} Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
             </li>
             {% endif %}
             {% if city.twitter %}
             <li class="social-twitter">
-                <a href="https://twitter.com/ScienceMarchSyd" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="https://twitter.com/ScienceMarchSyd" title="{{ city.name }} Twitter" alt="{{ city.name }} Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+            </li>
+            {% endif %}
+            {% if city.instagram %}
+            <li class="social-instagram">
+                <a href="{{ city.instagram }}" title="{{ city.name }} Instagram" alt="{{ city.name }} Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
             </li>
             {% endif %}
             {% if city.email %}
             <li class="social-mail">
-                <a href="mailto:sydney@marchforscienceaustralia.org" title="email" target="_blank"><i class="fa fa-envelope"></i></a>
+                <a href="mailto:{{ city.email }}" title="{{ city.name }} Email" alt="{{ city.name }} Email" target="_blank"><i class="fa fa-envelope"></i></a>
             </li>
             {% endif %}
         </ul>
         <br>
 
         {% if city.email %}
-        <p>Please direct all {{ city.name }} media enquires to:<br><a href="mailto:{{ city.email }}" title="email" target="_blank">{{ city.email }}</a></p>
+        <p>Please direct all {{ city.name }} media enquires to:<br><a href="mailto:{{ city.email }}" title="email" alt="{{ city.name }} Email" target="_blank">{{ city.email }}</a></p>
         {% endif %}
 
-        <p>For national media enquires, please direct them to:<br><a href="mailto:media@marchforscienceaustralia.org" title="email" target="_blank">media@marchforscienceaustralia.org</a></p>
+        <p>For national media enquires, please direct them to:<br><a href="mailto:media@marchforscienceaustralia.org" title="Media Email" target="_blank">media@marchforscienceaustralia.org</a></p>
     </div>
 </section>

@@ -13,19 +13,25 @@
                                     <ul class="list-inline list-social">
                                         {% if city.facebook %}
                                         <li class="social-facebook">
-                                            <a href="{{ city.facebook }}" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                                            <a href="{{ city.facebook }}" title="{{ city.name }} Facebook" alt="{{ city.name }} Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         {% endif %}
 
                                         {% if city.twitter %}
                                         <li class="social-twitter">
-                                            <a href="{{ city.twitter }}" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                                            <a href="{{ city.twitter }}" title="{{ city.name }} Twitter" alt="{{ city.name }} Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
                                         </li>
                                         {% endif %}
 
+                                        {% if city.instagram %}
                                         <li class="social-instagram">
-                                            <a href="https://www.instagram.com/sciencemarchau/" title="Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            <a href="{{ city.instagram }}" title="{{ city.name }} Instagram" alt="{{ city.name }} Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
+                                        {% else %}
+                                        <li class="social-instagram">
+                                            <a href="https://www.instagram.com/sciencemarchau/" title="National Instagram" alt="National Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                                        </li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </div>
