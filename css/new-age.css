@@ -233,6 +233,13 @@ section {
 section h2 {
   font-size: 50px;
 }
+section a:hover,
+section a:focus,
+section a:active,
+section a.active {
+  text-decoration: none;
+  border-bottom: 3px solid;
+}
 section.download {
   padding: 150px 0;
   position: relative;
@@ -400,6 +407,7 @@ footer ul li a:focus,
 footer ul li a:active,
 footer ul li a.active {
   text-decoration: none;
+  border-bottom: 3px solid;
 }
 ul.list-social {
   margin-bottom: 0;
