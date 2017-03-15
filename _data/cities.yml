@@ -36,6 +36,7 @@ launceston:
   facebook: https://www.facebook.com/MarchforScienceLaunceston/
   twitter: https://twitter.com/SciMarchLton
   email: launceston@marchforscienceaustralia.org
+  eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-32582213277
 melbourne:
   name: Melbourne
   # website: ./melbourne
@@ -60,11 +61,12 @@ sydney:
   twitter: https://twitter.com/ScienceMarchSyd
   email: sydney@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/664400-sydney?asc=u
   # donation: 
-  # merch: 
 townsville:
   name: Townsville
   website: http://marchforsciencetownsville.org/
   facebook: https://www.facebook.com/MarchForScienceTSV/
   twitter: https://twitter.com/ScienceMarchTSV
   email: townsville@marchforscienceaustralia.org
+  eventbrite: https://www.eventbrite.com.au/e/march-for-science-townsville-tickets-32583100932
