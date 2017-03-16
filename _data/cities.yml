@@ -11,6 +11,8 @@ brisbane:
   twitter: https://twitter.com/ScienceMarchBNE
   email: brisbane@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-brisbane-tickets-32582954494
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/667619-brisbane
+  donation: https://donorbox.org/march-for-science-brisbane 
 cairns:
   name: Cairns
   website: ./cairns
@@ -18,6 +20,8 @@ cairns:
   twitter: https://twitter.com/ScienceMarchGBR
   instagram: https://www.instagram.com/sciencemarchgbr/
   email: cairns@marchforscienceaustralia.org
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/667620-cairns
+  donation: https://donorbox.org/march-for-science-cairns 
 canberra:
   name: Canberra
   website: http://marchforsciencecanberra.org/
@@ -61,7 +65,7 @@ sydney:
   twitter: https://twitter.com/ScienceMarchSyd
   email: sydney@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/664400-sydney?asc=u
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/664400-sydney
   donation: https://donorbox.org/march-for-science-sydney 
 townsville:
   name: Townsville
