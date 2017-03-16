@@ -18,8 +18,13 @@ hero: /img/heros/sydney-hero-px.jpg
                 {% if city.eventbrite %}
                 <h4><a href="{{city.eventbrite}}" title="RSVP" alt="RSVP" target="_blank">RSVP</a></h4>
                 {% endif %}
+                <hr>
                 {% if city.merch %}
                 <h4><a href="{{city.merch}}" title="Merchandise" alt="Merchandise" target="_blank">Merchandise</a></h4>
+                {% endif %}
+                {% if city.donation %}
+                <script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
+<a class="dbox-donation-button" href="{{city.donation}}"" style="background:#2d81c5 url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 18px center; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 13px 17px 13px 56px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; box-shadow: 0 1px 0 0 #1f5a89; text-shadow: 0 1px rgba(0, 0, 0, 0.3); border-bottom: 0px;">Donate</a>
                 {% endif %}
                 <hr>
                 <br>

@@ -32,6 +32,12 @@
                                             <a href="https://www.instagram.com/sciencemarchau/" title="National Instagram" alt="National Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                         {% endif %}
+
+                                        {% if city.email %}
+                                        <li class="social-mail">
+                                            <a href="mailto:{{city.email}}" title="email" target="_blank"><i class="fa fa-envelope"></i></a>
+                                        </li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </div>
