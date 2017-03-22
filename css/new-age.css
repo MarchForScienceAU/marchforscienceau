@@ -24,13 +24,6 @@ body {
 body {
   font-family: 'Open Sans', 'Helvetica', 'Arial', 'sans-serif';
 }
-a {
-  color: #E9674D;
-}
-a:hover,
-a:focus {
-  color: #e34020;
-}
 hr {
   max-width: 250px;
   margin: 25px auto 0;
@@ -111,7 +104,7 @@ p {
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
-    color: #222222;
+    color: #E9674D;
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
@@ -119,7 +112,7 @@ p {
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
-    color: #222222;
+    color: #E9674D;
   }
   .navbar-default.affix {
     background-color: white;
@@ -472,16 +465,46 @@ ul.list-social li.social-mail a:hover {
   background: linear-gradient(#00517F, #004166);
   color: #FFFFFF;
 }
+.bg-secondary a {
+  color: rgba(233, 103, 77, 0.8);
+}
+.bg-secondary a:hover,
+.bg-secondary a:focus,
+.bg-secondary a:active,
+.bg-secondary a.active {
+  text-decoration: none;
+  border-bottom: 3px solid;
+}
 .bg-tertiary {
   color: #fff;
   background: #34BEBD;
   background: -webkit-linear-gradient(#34BEBD, #2faaa9);
   background: linear-gradient(#34BEBD, #2faaa9);
 }
+.bg-tertiary a {
+  color: #00517F;
+}
+.bg-tertiary a:hover,
+.bg-tertiary a:focus,
+.bg-tertiary a:active,
+.bg-tertiary a.active {
+  text-decoration: none;
+  border-bottom: 3px solid;
+}
 .bg-clear {
   background: #FFFFFF;
   background: -webkit-linear-gradient(#FFFFFF, #f2f2f2);
   background: linear-gradient(#FFFFFF, #f2f2f2);
+}
+.bg-clear a {
+  color: #E9674D;
+}
+.bg-clear a:hover,
+.bg-clear a:focus,
+.bg-clear a:active,
+.bg-clear a.active {
+  text-decoration: none;
+  border-bottom: 3px solid;
 }
 .text-primary {
   color: #E9674D;

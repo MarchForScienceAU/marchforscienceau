@@ -12,14 +12,6 @@ body {
     .body-font;
 }
 
-a {
-    color: @theme-primary;
-    &:hover,
-    &:focus {
-        color: darken(@theme-primary, 10%);
-    }
-}
-
 hr {
     max-width: 250px;
     margin: 25px auto 0;
@@ -96,14 +88,14 @@ p {
             color: fade(@gray-darker, 70%);
             &:hover,
             &:focus {
-                color: @gray-darker;
+                color: @theme-primary;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
             color: fade(@gray-darker, 70%);
             &:hover {
-                color: @gray-darker;
+                color: @theme-primary;
             }
         }
         &.affix {
@@ -473,9 +465,6 @@ ul.list-social {
 // Bootstrap Overrides
 
 .bg-primary {
-    background: @theme-primary;
-    background: -webkit-linear-gradient(@theme-primary , darken(@theme-primary, 5%));
-    background: linear-gradient(@theme-primary , darken(@theme-primary, 5%));
     a {
         color: fade(white, 80%);
         &:hover,
@@ -486,9 +475,22 @@ ul.list-social {
             border-bottom: 3px solid;
         }
     }
+    background: @theme-primary;
+    background: -webkit-linear-gradient(@theme-primary , darken(@theme-primary, 5%));
+    background: linear-gradient(@theme-primary , darken(@theme-primary, 5%));
 }
 
 .bg-secondary {
+    a {
+        color: fade(@theme-primary, 80%);
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+            border-bottom: 3px solid;
+        }
+    }
     background: @theme-secondary;
     background: -webkit-linear-gradient(@theme-secondary , darken(@theme-secondary, 5%));
     background: linear-gradient(@theme-secondary , darken(@theme-secondary, 5%));
@@ -500,9 +502,30 @@ ul.list-social {
     background: @theme-tertiary;
     background: -webkit-linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     background: linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
+    a {
+        color: @theme-secondary;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+            border-bottom: 3px solid;
+        }
+    }
 }
 
 .bg-clear {
+    a {
+        color: @theme-primary;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            text-decoration: none;
+            border-bottom: 3px solid;
+        }
+    }
+
     background: @theme-clear;
     background: -webkit-linear-gradient(@theme-clear , darken(@theme-clear, 5%));
     background: linear-gradient(@theme-clear , darken(@theme-clear, 5%));
