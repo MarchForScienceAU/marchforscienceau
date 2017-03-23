@@ -418,6 +418,16 @@ ul.list-social {
             font-size: 40px;
             border-radius: 100%;
             color: white;
+            border-color: white;
+            border: 1px solid;
+            &:hover,
+            &:focus,
+            &:active,
+            &.active {
+                color: white;
+                background-color: @theme-primary;
+                border-color: @theme-primary;
+            }
         }
         &.social-twitter {
             a {
@@ -503,7 +513,7 @@ ul.list-social {
     background: -webkit-linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     background: linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     a {
-        color: @theme-secondary;
+        color: @theme-grey;
         &:hover,
         &:focus,
         &:active,
@@ -563,11 +573,6 @@ ul.list-social {
 .btn-xl {
     padding: 15px 45px;
     font-size: 11px;
-}
-
-.btn-outline {
-    border-color: @gray-darker;
-    color: @gray-darker;
 }
 
 // Extras

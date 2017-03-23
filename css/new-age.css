@@ -413,6 +413,16 @@ ul.list-social li a {
   font-size: 40px;
   border-radius: 100%;
   color: white;
+  border-color: white;
+  border: 1px solid;
+}
+ul.list-social li a:hover,
+ul.list-social li a:focus,
+ul.list-social li a:active,
+ul.list-social li a.active {
+  color: white;
+  background-color: #E9674D;
+  border-color: #E9674D;
 }
 ul.list-social li.social-twitter a {
   background-color: #1da1f2;
@@ -482,7 +492,7 @@ ul.list-social li.social-mail a:hover {
   background: linear-gradient(#34BEBD, #2faaa9);
 }
 .bg-tertiary a {
-  color: #00517F;
+  color: #414142;
 }
 .bg-tertiary a:hover,
 .bg-tertiary a:focus,
@@ -535,10 +545,6 @@ ul.list-social li.social-mail a:hover {
 .btn-xl {
   padding: 15px 45px;
   font-size: 11px;
-}
-.btn-outline {
-  border-color: #222222;
-  color: #222222;
 }
 ::-moz-selection {
   color: white;
