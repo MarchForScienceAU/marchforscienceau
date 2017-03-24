@@ -9,7 +9,7 @@ Literacy, Communication, Policy, and Investment.
 
 ## About this site
 
-This is a static one page site hosted for free using [GitHub Pages](https://pages.github.com/) with SSL provided for free by [Cloudflare](https://www.cloudflare.com). The domain was purchased via [Name Silo](https://www.namesilo.com) and the theme is a fork of the free [New Age](https://github.com/BlackrockDigital/startbootstrap-new-age) template created by [Start Bootstrap](https://startbootstrap.com/).
+This is a jekyll site hosted for free using [GitHub Pages](https://pages.github.com/) with SSL provided for free by [Cloudflare](https://www.cloudflare.com). The domain was purchased via [Name Silo](https://www.namesilo.com) and the theme is a modified fork of the free [New Age](https://github.com/BlackrockDigital/startbootstrap-new-age) template created by [Start Bootstrap](https://startbootstrap.com/).
 
 Google Analytics is also used.
 
