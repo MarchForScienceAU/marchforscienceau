@@ -2,7 +2,10 @@
 
 ## SCIENCE, NOT SILENCE
 
-The March for Science celebrates the public discovery, distribution, and understanding of scientific knowledge as crucial to the freedom, success, health, and safety of life on this planet. We are a nonpartisan group, marching to demand action in the following areas: Funding, Communication, Policy, and Literacy.
+The March for Science celebrates the public discovery, distribution, and understanding of scientific knowledge as crucial to the freedom, success, health, and safety of life on this planet.
+
+We are a nonpartisan group, marching to demand action in the following areas:
+Literacy, Communication, Policy, and Investment.
 
 ## About this site
 
