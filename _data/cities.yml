@@ -43,7 +43,7 @@ launceston:
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-32582213277
 melbourne:
   name: Melbourne
-  # website: ./melbourne
+  website: ./melbourne
   facebook: https://www.facebook.com/ScienceMarchMelb/
   twitter: https://twitter.com/ScienceMarchMel
   email: melbourne@marchforscienceaustralia.org
