@@ -282,6 +282,10 @@ section#mission.features .feature-item i {
     font-size: 40px;
   }
 }
+section#who img {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
 section.features .section-heading {
   margin-bottom: 100px;
 }
