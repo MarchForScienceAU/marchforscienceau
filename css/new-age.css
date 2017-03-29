@@ -286,6 +286,9 @@ section#who img {
   margin-bottom: 10px;
   margin-right: 10px;
 }
+section#who .small {
+  font-size: 100%;
+}
 section.features .section-heading {
   margin-bottom: 100px;
 }
