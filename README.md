@@ -26,7 +26,7 @@ More information about how to get started:
 
 The following instructions are for OSX but should mostly work for any *nix system.
 
-** Requirements **
+**Requirements**
 
  * Ruby
  * Gulp
