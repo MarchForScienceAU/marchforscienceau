@@ -24,7 +24,7 @@ More information about how to get started:
 
 ## Installation
 
-###Gulp
+### Gulp
 
 This is used to compile the JS and CSS.
 
