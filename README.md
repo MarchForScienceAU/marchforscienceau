@@ -24,6 +24,22 @@ More information about how to get started:
 
 ## Installation
 
+The following instructions are for OSX but should mostly work for any *nix system.
+
+** Requirements **
+
+ * Ruby
+ * Gulp
+ * Jekyll
+
+### Ruby
+
+If you don't have the latest version of Ruby you can install it on OSX easily with [Homebrew](https://brew.sh/) (follow the instruction to install it [here](https://brew.sh/)).
+
+```BASH
+brew install ruby
+```
+
 ### Gulp
 
 This is used to compile the JS and CSS.
@@ -41,7 +57,7 @@ Used to generate the static site for local development and testing.
 gem install jekyll bundler
 ```
 
-### Testing
+## Testing
 
 Once these are installed, from the root of the site you can run:
 
