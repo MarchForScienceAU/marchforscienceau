@@ -626,3 +626,19 @@ body {
 .maps iframe {
     pointer-events: none;
 }
+
+.key-buttons {
+    @media(min-width:1000px) {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    @media(max-width:999px) {
+        div {
+            + div {
+                margin-top: 10px;
+            }
+        }
+    }
+}
+
