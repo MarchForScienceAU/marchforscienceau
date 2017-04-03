@@ -11,20 +11,20 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="#mission">Mission</a>
+                <li{% if page.url == '/' %} class="active"{% endif %}>
+                    <a class="page-scroll" href="/">Home</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#acknowledgment">Acknowledgment</a>
+                <li{% if page.url == '/cities/' %} class="active"{% endif %}>
+                    <a class="page-scroll" href="/cities">Cities</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#cities">Cities</a>
+                <li{% if page.url == '/aims/' %} class="active"{% endif %}>
+                    <a class="page-scroll" href="/aims">Aims</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#media">Media</a>
+                <li{% if page.url == '/who/' %} class="active"{% endif %}>
+                    <a class="page-scroll" href="/who">Who</a>
                 </li>
-                <li>
-                    <a class="page-scroll" href="#who">Who</a>
+                <li{% if page.url == '/media/' %} class="active"{% endif %}>
+                    <a class="page-scroll" href="/media">Media</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Contact</a>

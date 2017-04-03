@@ -1,0 +1,69 @@
+---
+layout: single
+title: Cities
+permalink: /cities/
+hero: /img/heros/telescope.jpg
+---
+
+<section id="cities" class="bg-clear features">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div>
+                    <h2>Where we are marching</h2>
+                    <p class="text-muted">Find the nearest city to you below</p>
+                    <hr><br>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for cityObj in site.data.cities %}
+            {% assign city = cityObj[1] %}
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="feature-item">
+                    <h3>
+                        {% if city.website %}
+                        <a href="{{ city.website }}" title="{{ city.name }} Website">{{ city.name }}</a>
+                        {% else %}
+                        {{ city.name }}
+                        {% endif %}
+                    </h3>
+                    <ul class="list-inline">
+                        {% if city.website %}
+                        <li class="social">
+                            <a href="{{ city.website }}"><i class="fa fa-globe" aria-hidden="true" title="{{ city.name }} Website"></i><span class="sr-only">{{ city.name }} Website</span></a>
+                        </li>
+                        {% endif %}
+                        {% if city.facebook %}
+                        <li class="social-facebook">
+                            <a href="{{ city.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true" title="{{ city.name }} Facebook"></i><span class="sr-only">{{ city.name }} Facebook</span></a>
+                        </li>
+                        {% endif %}
+                        {% if city.twitter %}
+                        <li class="social-twitter">
+                            <a href="{{ city.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true" title="{{ city.name }} Twitter"></i><span class="sr-only">{{ city.name }} Twitter</span></a>
+                        </li>
+                        {% endif %}
+                        {% if city.email %}
+                        <li class="social">
+                            <a href="mailto:{{ city.email }}" target="_blank"><i class="fa fa-envelope" aria-hidden="true" title="{{ city.name }} Email"></i><span class="sr-only">{{ city.name }} Email</span></a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <p class="text-muted">If your city isn't listed and you'd like to get a march started contact us via <a href="https://www.facebook.com/MarchForScienceAustralia/" title="Facebook" target="_blank">Facebook</a> or <a href="https://twitter.com/ScienceMarchAu" title="Twitter" target="_blank">Twitter</a> and be sure to fill out our <a class="page-scroll" href="https://www.surveymonkey.com/r/ScienceMarchAu" target="_blank">volunteer survey</a>.</p>
+                <p class="text-muted">If there aren't any marches near you or you can't make it come join the <a href="https://www.facebook.com/virtualmarchforscience/" target="_blank">Virtual March for Science</a>.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center maps">
+                <iframe scrolling="no" frameborder="0" src="https://www.google.com/maps/d/embed?mid=1k2W4wUAK5nL3HBLhk4S0xIMfY2o&ll=-28.066559728008222%2C133.154299875&z=4" width="100%" height="500"></iframe>
+            </div>
+        </div>
+    </div>
+</section>

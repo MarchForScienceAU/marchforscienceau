@@ -48,6 +48,10 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+li {
+  font-size: 18px;
+  line-height: 1.5;
+}
 .navbar-default {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -71,27 +75,27 @@ p {
   color: #222222;
   padding: 8px 10px;
 }
-.navbar-default .nav > li > a {
+.navbar-default .nav li > a {
   font-family: 'Raleway', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 11px;
 }
-.navbar-default .nav > li > a,
-.navbar-default .nav > li > a:focus {
+.navbar-default .nav li > a,
+.navbar-default .nav li > a:focus {
   color: #222222;
 }
-.navbar-default .nav > li > a:hover,
-.navbar-default .nav > li > a:focus:hover {
+.navbar-default .nav li > a:hover,
+.navbar-default .nav li > a:focus:hover {
   color: #E9674D;
 }
-.navbar-default .nav > li.active > a,
-.navbar-default .nav > li.active > a:focus {
+.navbar-default .nav li.active > a,
+.navbar-default .nav li.active > a:focus {
   color: #E9674D !important;
   background-color: transparent;
 }
-.navbar-default .nav > li.active > a:hover,
-.navbar-default .nav > li.active > a:focus:hover {
+.navbar-default .nav li.active > a:hover,
+.navbar-default .nav li.active > a:focus:hover {
   background-color: transparent;
 }
 @media (min-width: 768px) {
@@ -221,7 +225,7 @@ header ul.list-social li a {
   color: white;
 }
 section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 section h2 {
   font-size: 50px;
@@ -409,6 +413,12 @@ footer ul li a.active {
   text-decoration: none;
   border-bottom: 3px solid;
 }
+section.aims h1 {
+  font-size: 50px;
+}
+section.aims h2 {
+  font-size: 30px;
+}
 ul.list-social {
   margin-bottom: 0;
 }
@@ -499,7 +509,7 @@ ul.list-social li.social-mail a:hover {
   background: linear-gradient(#34BEBD, #2faaa9);
 }
 .bg-tertiary a {
-  color: #414142;
+  color: #333;
 }
 .bg-tertiary a:hover,
 .bg-tertiary a:focus,
@@ -507,6 +517,9 @@ ul.list-social li.social-mail a:hover {
 .bg-tertiary a.active {
   text-decoration: none;
   border-bottom: 3px solid;
+}
+.bg-tertiary .text-muted {
+  color: #e4e4e4;
 }
 .bg-clear {
   background: #FFFFFF;
@@ -582,6 +595,9 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
+}
+.hero-pad {
+  padding: 25px 0 25px 0;
 }
 .city-heading-text {
   color: white;

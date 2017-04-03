@@ -38,7 +38,12 @@ p {
     margin-bottom: 20px;
 }
 
-// xigation
+li {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+// navigation
 
 .navbar-default {
     .transition-all;
@@ -57,7 +62,7 @@ p {
         padding: 8px 10px;
     }
     .nav {
-        > li {
+        li {
             > a {
                 .alt-font;
                 font-size: 11px;
@@ -212,7 +217,7 @@ header {
 // Sections
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
     h2 {
         font-size: 50px;
     }
@@ -409,6 +414,18 @@ footer {
     }
 }
 
+// Pages
+
+section.aims {
+    // padding: 100px 0;
+    h1 {
+        font-size: 50px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+}
+
 // Social and misc icon lists
 
 
@@ -518,7 +535,7 @@ ul.list-social {
     background: -webkit-linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     background: linear-gradient(@theme-tertiary , darken(@theme-tertiary, 5%));
     a {
-        color: @theme-grey;
+        color: #333;
         &:hover,
         &:focus,
         &:active,
@@ -526,6 +543,9 @@ ul.list-social {
             text-decoration: none;
             border-bottom: 3px solid;
         }
+    }
+    .text-muted { 
+        color: #e4e4e4;
     }
 }
 
@@ -616,6 +636,10 @@ body {
     left:0;
     height: 100%;
     width: 100%;
+}
+
+.hero-pad {
+    padding: 25px 0 25px 0;
 }
 
 .city-heading-text {

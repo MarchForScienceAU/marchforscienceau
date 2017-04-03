@@ -6,22 +6,22 @@ adelaide:
   email: adelaide@marchforscienceaustralia.org
 brisbane:
   name: Brisbane
-  website: ./brisbane
+  website: /brisbane
   facebook: https://www.facebook.com/sciencemarchbne/
   twitter: https://twitter.com/ScienceMarchBNE
   email: brisbane@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-brisbane-tickets-32582954494
   merch: https://www.redbubble.com/people/sciencemarchau/collections/667619-brisbane
-  donation: https://donorbox.org/march-for-science-brisbane 
+  donation: https://donorbox.org/march-for-science-brisbane
 cairns:
   name: Cairns
-  website: ./cairns
+  website: /cairns
   facebook: https://www.facebook.com/MarchforScienceGBR
   twitter: https://twitter.com/ScienceMarchGBR
   instagram: https://www.instagram.com/sciencemarchgbr/
   email: cairns@marchforscienceaustralia.org
   merch: https://www.redbubble.com/people/sciencemarchau/collections/667620-cairns
-  donation: https://donorbox.org/march-for-science-cairns 
+  donation: https://donorbox.org/march-for-science-cairns
 canberra:
   name: Canberra
   website: http://marchforsciencecanberra.org/
@@ -43,13 +43,13 @@ launceston:
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-32582213277
 melbourne:
   name: Melbourne
-  website: ./melbourne
+  website: /melbourne
   facebook: https://www.facebook.com/ScienceMarchMelb/
   twitter: https://twitter.com/ScienceMarchMel
   email: melbourne@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-melbourne-tickets-32582464027
   merch: https://www.redbubble.com/people/sciencemarchau/collections/664401-melbourne
-  donation: https://donorbox.org/march-for-science-melbourne 
+  donation: https://donorbox.org/march-for-science-melbourne
 newcastle:
   name: Newcastle
   # website: ./newcastle
@@ -63,13 +63,15 @@ perth:
   email: perth@marchforscienceaustralia.org
 sydney:
   name: Sydney
-  website: ./sydney
+  website: /sydney
   facebook: https://www.facebook.com/MarchForScienceSydney/
   twitter: https://twitter.com/ScienceMarchSyd
   email: sydney@marchforscienceaustralia.org
   eventbrite: https://www.eventbrite.com.au/e/march-for-science-sydney-tickets-31798910397
   merch: https://www.redbubble.com/people/sciencemarchau/collections/664400-sydney
-  donation: https://donorbox.org/march-for-science-sydney 
+  donation: https://donorbox.org/march-for-science-sydney
+  # people: Gadigal
+  # nation: Eora
 townsville:
   name: Townsville
   website: http://marchforsciencetownsville.org/
