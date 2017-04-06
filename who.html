@@ -23,12 +23,20 @@ hero: /img/heros/silicon.jpg
                 {% if person.image %}
                 <p class="small">
                     <img src="{{ person.image }}" alt="{{ person.name }}" width="150" class="pull-left img-rounded">
-                    <big>{{ person.name }}</big><br>
+                    <big>{{ person.name }}</big>
+                    {% if person.description %}
+                    <small class="text-muted">({{ person.city }})</small><br>
+                    {% endif %}
+                    
                     {{ person.description }}
                 </p>
                 {% else %}
                 <p class="small text-center">
-                    <strong>{{ person.name }}</strong>
+                    <big>{{ person.name }}</big>
+                    {% if person.description %}
+                    <small class="text-muted">({{ person.city }})</small><br>
+                    {% endif %}
+                    
                     {% if person.description %}
                     <br>{{ person.description }}
                     {% endif %}
