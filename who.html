@@ -17,7 +17,7 @@ hero: /img/heros/silicon.jpg
             </div>
         </div>
         <div class="row">
-            {% assign people = site.data.people %}
+            {% assign people = site.data.people | sort: 'city' %}
             {% for person in people %}
             <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 clearfix">
                 {% if person.image %}

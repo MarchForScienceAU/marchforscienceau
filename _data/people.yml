@@ -98,15 +98,25 @@
   description: Leen is a biologist/engineer designing algal photobioreactors for large scale use. She believes that understanding science is an essential aspect that should inform our decisions, both personally and politically.
   image: /img/peeps/leen_labeeuw.jpg
 
-- name: Kristin Barry
-  city: Perth
+- name: Richard Buckdale
+  city: Sydney
+  description: Richard is Friends of CSIRO Sydney Research Officer, a University of Sydney graduate with first class honours in Pure Mathematics, and a retired computer science software engineer. He believes investment in science and scientists is critical for developing a just and rational world and an Australia that can stand on its own feet.
+  image: /img/peeps/richard_buckdale.jpg
 
-- name: Amanda Dunne
-  city: Brisbane
+- name: Tammie Smith
+  city: Sydney
+  description: Tammie is a proud Dunghutti and Bundjalung women from Kempsey – Graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
+  image: /img/peeps/tammie_smith.jpg
 
-- name: Sean Geoghegan
-  city: Canberra
+# - name: Kristin Barry
+#   city: Perth
+
+# - name: Amanda Dunne
+#   city: Brisbane
+
+# - name: Sean Geoghegan
+#   city: Canberra
   
-- name: Glen Jackson
+# - name: Glen Jackson
 
 
