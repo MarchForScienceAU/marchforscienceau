@@ -4,6 +4,10 @@ adelaide:
   facebook: https://www.facebook.com/MarchforScienceAdelaide/
   twitter: https://twitter.com/SciRallyAdel
   email: adelaide@marchforscienceaustralia.org
+bendigo:
+  name: Bendigo
+  # website: /bendigo
+  email: bendigo@marchforscienceaustralia.org
 brisbane:
   name: Brisbane
   website: /brisbane
