@@ -1,6 +1,6 @@
 - name: Stuart Khan
   city: Sydney
-  description: Stuart is an Associate Professor in Civil &amp; Environmental Engineering at the University of New South Wales. He has a passion for clean water, including water to drink, water to swim in and water for the environment.
+  description: Stuart is an Associate Professor in Civil and Environmental Engineering at the University of New South Wales. He has a passion for clean water, including water to drink, water to swim in and water for the environment.
   image: /img/peeps/stuart_khan.jpg
 
 - name: Erin Vaughn
@@ -20,7 +20,7 @@
 
 - name: Jin-oh Choi
   city: Launceston
-  description: Jin-oh is President of the Launceston Skeptics Inc. a science advocate who seeks to promote critical thinking and an understanding of the scientific method.
+  description: Jin-oh is President of the Launceston Skeptics Inc. and a science advocate who seeks to promote critical thinking and an understanding of the scientific method.
   image: /img/peeps/jin-oh_choi.jpg
 
 - name: Kate Ferris
@@ -40,7 +40,7 @@
 
 - name: Andrea Leong
   city: Sydney
-  description: Andrea is a microbiologist working in microbiome research, examining how gut bacteria can affect general health. She feels strongly about supporting universal scientific literacy and critical thinking through a strong public education system.
+  description: Andrea is a microbiologist working in microbiome research, examining how gut bacteria can affect general health. She believes supporting universal scientific literacy and critical thinking through a strong public education system is vital.
   image: /img/peeps/andrea_leong.jpg
 
 - name: Jessie Andrikis
@@ -65,7 +65,7 @@
 
 - name: Andrea Finno
   city: Sydney
-  description: Software developer, problem solver and lifelong science enthusiast. Andrea would like to see a world where humans more critically consider their actions towards the Earth, its animals and themselves.
+  description: Andrea is a software developer, problem solver and lifelong science enthusiast. Andrea would like to see a world where humans more critically consider their actions towards the Earth, its animals and themselves.
   image: /img/peeps/andrea_finno.jpg
 
 - name: Janet Salisbury
@@ -85,12 +85,12 @@
 
 - name: Adam Ford
   city: Melbourne
-  description: Adam is working at Hanson Robotics/OpenCog, and part time at Bayesian Intelligence. He organises conferences & convenes meetings on science, technology & the future in Melbourne and sometimes abroad. He is passionate about artificial intelligence, and the long term future of sentience in the universe.
+  description: Adam is working at Hanson Robotics/OpenCog, and part time at Bayesian Intelligence. He organises conferences & convenes meetings on science, technology and the future in Melbourne and sometimes abroad. He is passionate about artificial intelligence, and the long term future of sentience in the universe.
   image: /img/peeps/adam_ford.jpg
 
 - name: Alex Payne
   city: Sydney
-  description: Alex is an undergraduate student studying Biology and Chemistry on exchange at UNSW. He is excited to work with the march to improve two-way science communication between the scientific community and the public, and to argue for evidence-based thinking as critical skill in education and for public policy.
+  description: Alex is an undergraduate student studying biology and chemistry on exchange at UNSW. He is excited to work with the march to improve two-way science communication between the scientific community and the public, and to argue for evidence-based thinking as critical skill in education and for public policy.
   image: /img/peeps/alex_payne.jpg
 
 - name: Leen Labeeuw
@@ -100,12 +100,12 @@
 
 - name: Richard Buckdale
   city: Sydney
-  description: Richard is Friends of CSIRO Sydney Research Officer, a University of Sydney graduate with first class honours in Pure Mathematics, and a retired computer science software engineer. He believes investment in science and scientists is critical for developing a just and rational world and an Australia that can stand on its own feet.
+  description: Richard is the Friends of CSIRO Sydney Research Officer, a University of Sydney graduate with first class honours in Pure Mathematics, and a retired computer science software engineer. He believes investment in science and scientists is critical for developing a just and rational world and an Australia that can stand on its own feet.
   image: /img/peeps/richard_buckdale.jpg
 
 - name: Tammie Smith
   city: Sydney
-  description: Tammie is a proud Dunghutti and Bundjalung women from Kempsey – Graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
+  description: Tammie is a proud Dunghutti and Bundjalung woman from Kempsey and graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as a graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
   image: /img/peeps/tammie_smith.jpg
 
 # - name: Kristin Barry
