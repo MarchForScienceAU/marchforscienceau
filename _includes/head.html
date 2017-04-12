@@ -9,14 +9,14 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <!-- Facebook Meta -->
-    <meta property="og:title" content="March for Science Australia">
+    <meta property="og:title" content="March for Science Australia - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:site_name" content="March for Science Australia">
     <meta property="og:description" content="It is time for scientists, science enthusiasts, and concerned citizens to come together to make ourselves heard.">
     <meta property="og:image" content="https://marchforscienceaustralia.org/img/social.jpg">
     <meta property="og:url" content="https://marchforscienceaustralia.org">
 
     <!-- Twitter Meta -->
-    <meta name="twitter:title" content="March for Science Australia">
+    <meta name="twitter:title" content="March for Science Australia - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:image:alt" content="March for Science Australia Logo">
     <meta name="twitter:description" content="It is time for scientists, science enthusiasts, and concerned citizens to come together to make ourselves heard.">
     <meta name="twitter:image" content="https://marchforscienceaustralia.org/img/social.jpg">
