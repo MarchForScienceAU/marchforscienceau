@@ -1,9 +1,8 @@
-adelaide:
-  name: Adelaide
-  # website: ./adelaide
-  facebook: https://www.facebook.com/MarchforScienceAdelaide/
-  twitter: https://twitter.com/SciRallyAdel
-  email: adelaide@marchforscienceaustralia.org
+# adelaide:
+#   name: Adelaide
+#   facebook: https://www.facebook.com/MarchforScienceAdelaide/
+#   twitter: https://twitter.com/SciRallyAdel
+#   email: adelaide@marchforscienceaustralia.org
 bendigo:
   name: Bendigo
   website: /bendigo
