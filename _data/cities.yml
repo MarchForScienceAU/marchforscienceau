@@ -63,10 +63,11 @@ newcastle:
   email: newcastle@marchforscienceaustralia.org
 perth:
   name: Perth
-  # website: ./perth
+  website: /perth
   facebook: https://www.facebook.com/MarchForSciencePerthWA/
   twitter: https://twitter.com/SciMarchPerth
   email: perth@marchforscienceaustralia.org
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/664407-perth
 sydney:
   name: Sydney
   website: /sydney
