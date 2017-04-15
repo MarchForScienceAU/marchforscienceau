@@ -1,47 +1,143 @@
 - name: 350.org
   website: https://350.org/
+  state: 
+  national: true
+  international: false
 
 - name: Australasian Society of Lifestyle Medicine
   website: http://lifestylemedicine.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Australian Nursing and Midwifery Federation
   website: http://anmf.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Biofoundry
   website: http://foundry.bio/
+  state: 
+  national: true
+  international: false
 
 - name: Council of Australian Postgraduate Associations (CAPA)
   website: http://www.capa.edu.au/
+  state: 
+  national: true
+  international: false
 
 - name: Friends of CSIRO
   website: http://www.friendsofcsiro.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Jane Goodall Institute Australia
   website: http://www.janegoodall.org.au/
+  state: 
+  national: true
+  international: true
 
 - name: Pedal Power ACT
   website: http://www.pedalpower.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Transhumanism Australia
   website: https://www.transhumanism.com.au/
+  state: 
+  national: true
+  international: false
 
 - name: Centre for Tropical Environmental & Sustainabity Science (TESS)
   website: https://research.jcu.edu.au/tess
+  state: 
+  national: true
+  international: false
 
 - name: Nature Conservancy Australia
   website: http://www.natureaustralia.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Tangaroa Blue Foundation
   website: http://www.tangaroablue.org/
+  state: 
+  national: true
+  international: false
 
 - name: Save Cliefden Caves Association
   website: http://www.savecliefdencaves.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Australian Marine Conservation Society
   website: https://www.marineconservation.org.au/
+  state: 
+  national: true
+  international: false
 
 - name: Australian Coral Reef Society
   website: http://www.australiancoralreefsociety.org/
+  state: 
+  national: true
+  international: false
 
 - name: Great Barrier Reef Foundation
   website: https://www.barrierreef.org/
+  state: 
+  national: true
+  international: false
+
+- name: The Planetary Society
+  website: http://planetary.org/
+  state: 
+  national: false
+  international: true
+
+- name: American Association for the Advancement of Science
+  website: http://www.aaas.org/
+  state:
+  national: false
+  international: true
+
+- name: Alliance for Science
+  website: http://allianceforscience.cornell.edu/
+  state:
+  national: false
+  international: true
+
+- name: American Anthropological Association
+  website: http://www.americananthro.org/
+  state:
+  national: false
+  international: true
+
+- name: American Association of University Women (AAUW
+  website: http://www.aauw.org/
+  state:
+  national: false
+  international: true
+
+- name: American Chemical Society
+  website: https://www.acs.org/content/acs/en.html
+  state:
+  national: false
+  international: true
+
+- name: Sigma Xi
+  website: https://www.sigmaxi.org/
+  state:
+  national: false
+  international: true
+
+- name: Society for Conservation Biology
+  website: http://conbio.org/
+  state:
+  national: false
+  international: true

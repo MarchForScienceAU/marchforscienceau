@@ -9,16 +9,21 @@ hero: /img/heros/lab2.jpg
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <div>
-                    <h2>Support</h2>
-                    <p class="text-muted">Who supports the march</p>
-                    <hr><br>
-                </div>
+                <h2>Support</h2>
+                <p class="text-muted">Who supports the march</p>
+                <hr><br>
             </div>
         </div>
         <div class="row">
+            <div class="col-lg-12 text-center">
+                <h3 class="text-center">National</h3><br>
+            </div>
+        </div>
+        <div class="row">
+            
             {% assign supporters = site.data.supporters | sort: 'name' %}
             {% for supporter in supporters %}
+            {% if supporter.national %}
             <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 clearfix">
                 <p class="small text-center">
                     <big><a href="{{ supporter.website }}" target="_blank">{{ supporter.name }}</a></big>
@@ -27,6 +32,27 @@ hero: /img/heros/lab2.jpg
                     {% endif %}
                 </p>
             </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h3 class="text-center">International</h3><br>
+            </div>
+        </div>
+        <div class="row">
+            {% assign supporters = site.data.supporters | sort: 'name' %}
+            {% for supporter in supporters %}
+            {% if supporter.international %}
+            <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 clearfix">
+                <p class="small text-center">
+                    <big><a href="{{ supporter.website }}" target="_blank">{{ supporter.name }}</a></big>
+                    {% if supporter.description %}
+                    <small class="text-muted">({{ supporter.description }})</small><br>
+                    {% endif %}
+                </p>
+            </div>
+            {% endif %}
             {% endfor %}
         </div>
         <hr>
