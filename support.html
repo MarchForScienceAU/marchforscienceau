@@ -24,7 +24,7 @@ hero: /img/heros/lab2.jpg
             {% assign supporters = site.data.supporters | sort: 'name' %}
             {% for supporter in supporters %}
             {% if supporter.national %}
-            <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 clearfix">
+            <div class="col-lg-6 col-md-6 col-sm-12 clearfix">
                 <p class="small text-center">
                     <big><a href="{{ supporter.website }}" target="_blank">{{ supporter.name }}</a></big>
                     {% if supporter.description %}
