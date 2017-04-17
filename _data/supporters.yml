@@ -141,3 +141,9 @@
   state:
   national: false
   international: true
+
+- name: Wildlife Queensland Townsville Chapter
+  website: http://townsville.wildlife.org.au/
+  state:
+  national: true
+  international: false
