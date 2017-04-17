@@ -147,3 +147,15 @@
   state:
   national: true
   international: false
+
+- name: Climate Action Moreland
+  website: https://climateactionmoreland.org/
+  state:
+  national: true
+  international: false
+
+- name: The Royal Society of Victoria
+  website: https://rsv.org.au/
+  state:
+  national: true
+  international: false
