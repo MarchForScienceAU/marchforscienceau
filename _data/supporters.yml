@@ -165,3 +165,9 @@
   state:
   national: true
   international: false
+
+- name: Dyslexia Victoria Support
+  website: https://www.facebook.com/groups/1376854315937070/
+  state:
+  national: true
+  international: false
