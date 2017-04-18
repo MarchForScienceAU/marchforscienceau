@@ -171,3 +171,9 @@
   state:
   national: true
   international: false
+
+- name: Australian Society of Plant Scientists
+  website: https://www.asps.org.au/
+  state:
+  national: true
+  international: false
