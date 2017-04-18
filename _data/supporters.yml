@@ -177,3 +177,9 @@
   state:
   national: true
   international: false
+
+- name: CropLife Australia
+  website: https://www.croplife.org.au/
+  state:
+  national: true
+  international: false
