@@ -6,13 +6,13 @@ adelaide:
   email: adelaide@marchforscienceaustralia.org
   merch: https://www.redbubble.com/people/sciencemarchau/collections/664399-national
   donation: https://donorbox.org/march-for-science-adelaide
-bendigo:
-  name: Bendigo
-  website: /bendigo
-  email: bendigo@marchforscienceaustralia.org
-  eventbrite: https://www.eventbrite.com.au/e/march-for-science-bendigo-tickets-33555747143
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/664399-national
-  donation: https://donorbox.org/march-for-science-bendigo
+# bendigo:
+#   name: Bendigo
+#   website: /bendigo
+#   email: bendigo@marchforscienceaustralia.org
+#   eventbrite: https://www.eventbrite.com.au/e/march-for-science-bendigo-tickets-33555747143
+#   merch: https://www.redbubble.com/people/sciencemarchau/collections/664399-national
+#   donation: https://donorbox.org/march-for-science-bendigo
 brisbane:
   name: Brisbane
   website: /brisbane
