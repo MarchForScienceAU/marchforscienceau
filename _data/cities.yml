@@ -1,6 +1,6 @@
 adelaide:
   name: Adelaide
-  # website: /adelaide
+  website: /adelaide
   facebook: https://www.facebook.com/March-for-Science-Adelaide-1849879998599303/
   twitter: https://twitter.com/ScienceMarchADE
   email: adelaide@marchforscienceaustralia.org
@@ -62,7 +62,6 @@ melbourne:
   donation: https://donorbox.org/march-for-science-melbourne
 newcastle:
   name: Newcastle
-  # website: ./newcastle
   facebook: https://www.facebook.com/events/1811136289147054/
   email: newcastle@marchforscienceaustralia.org
 perth:
