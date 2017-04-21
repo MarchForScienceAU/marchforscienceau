@@ -183,3 +183,15 @@
   state:
   national: true
   international: false
+
+- name: Spirit of Eureka
+  website: http://www.spiritofeureka.org/
+  state:
+  national: true
+  international: false
+
+- name: National Tertiary Education Union (NTEU)
+  website: http://www.nteu.org.au/
+  state:
+  national: true
+  international: false
