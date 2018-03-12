@@ -40,13 +40,13 @@ canberra:
   email: canberra@marchforscienceaustralia.org
 hobart:
   name: Hobart
-  website: http://marchforsciencehobart.org/
+  website: /hobart
   facebook: https://www.facebook.com/MarchforScienceHobart
   twitter: https://twitter.com/ScienceMarchHbt
   email: hobart@marchforscienceaustralia.org
 launceston:
   name: Launceston
-  website: http://marchforsciencelaunceston.org
+  website: /launceston
   facebook: https://www.facebook.com/MarchforScienceLaunceston/
   twitter: https://twitter.com/SciMarchLton
   email: launceston@marchforscienceaustralia.org
