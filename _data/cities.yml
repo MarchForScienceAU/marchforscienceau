@@ -13,25 +13,25 @@ adelaide:
 #   eventbrite: https://www.eventbrite.com.au/e/march-for-science-bendigo-tickets-33555747143
 #   merch: https://www.redbubble.com/people/sciencemarchau/collections/664399-national
 #   donation: https://donorbox.org/march-for-science-bendigo
-brisbane:
-  name: Brisbane
-  website: /brisbane
-  facebook: https://www.facebook.com/sciencemarchbne/
-  twitter: https://twitter.com/ScienceMarchBNE
-  email: brisbane@marchforscienceaustralia.org
-  # eventbrite: https://www.eventbrite.com.au/e/march-for-science-brisbane-tickets-32582954494
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/667619-brisbane
-  # donation: https://donorbox.org/march-for-science-brisbane
-cairns:
-  name: Cairns
-  website: /cairns
-  facebook: https://www.facebook.com/MarchforScienceGBR
-  twitter: https://twitter.com/ScienceMarchGBR
-  instagram: https://www.instagram.com/sciencemarchgbr/
-  email: cairns@marchforscienceaustralia.org
-  # eventbrite: https://www.eventbrite.com.au/e/march-for-science-cairns-tickets-32650984975
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/667620-cairns
-  # donation: https://donorbox.org/march-for-science-cairns
+# brisbane:
+#   name: Brisbane
+#   website: /brisbane
+#   facebook: https://www.facebook.com/sciencemarchbne/
+#   twitter: https://twitter.com/ScienceMarchBNE
+#   email: brisbane@marchforscienceaustralia.org
+#   # eventbrite: https://www.eventbrite.com.au/e/march-for-science-brisbane-tickets-32582954494
+#   merch: https://www.redbubble.com/people/sciencemarchau/collections/667619-brisbane
+#   # donation: https://donorbox.org/march-for-science-brisbane
+# cairns:
+#   name: Cairns
+#   website: /cairns
+#   facebook: https://www.facebook.com/MarchforScienceGBR
+#   twitter: https://twitter.com/ScienceMarchGBR
+#   instagram: https://www.instagram.com/sciencemarchgbr/
+#   email: cairns@marchforscienceaustralia.org
+#   # eventbrite: https://www.eventbrite.com.au/e/march-for-science-cairns-tickets-32650984975
+#   merch: https://www.redbubble.com/people/sciencemarchau/collections/667620-cairns
+#   # donation: https://donorbox.org/march-for-science-cairns
 canberra:
   name: Canberra
   website: http://marchforsciencecanberra.org/
@@ -60,10 +60,10 @@ melbourne:
   # eventbrite: https://www.eventbrite.com.au/e/march-for-science-melbourne-tickets-32582464027
   merch: https://www.redbubble.com/people/sciencemarchau/collections/664401-melbourne
   # donation: https://donorbox.org/march-for-science-melbourne
-newcastle:
-  name: Newcastle
-  facebook: https://www.facebook.com/events/1811136289147054/
-  email: newcastle@marchforscienceaustralia.org
+# newcastle:
+#   name: Newcastle
+#   facebook: https://www.facebook.com/events/1811136289147054/
+#   email: newcastle@marchforscienceaustralia.org
 perth:
   name: Perth
   website: /perth
@@ -71,10 +71,10 @@ perth:
   twitter: https://twitter.com/SciMarchPerth
   email: perth@marchforscienceaustralia.org
   merch: https://www.redbubble.com/people/sciencemarchau/collections/664407-perth
-portmac:
-  name: Port Macquarie
-  facebook: https://www.facebook.com/mfspm2017/
-  email: info@marchforscienceaustralia.org
+# portmac:
+#   name: Port Macquarie
+#   facebook: https://www.facebook.com/mfspm2017/
+#   email: info@marchforscienceaustralia.org
 sydney:
   name: Sydney
   website: /sydney
