@@ -60,7 +60,7 @@
 
 - name: Jocelyn Prasad
   city: Sydney
-  description: Jocelyn is a PR professional who has worked for politicians, corporations and universities, and takes great satisfaction from communicating science and ideas. Jocelyn believes science offers the best hope for her and her family’s future. 
+  description: Jocelyn is a PR professional who has worked for politicians, corporations and universities, and takes great satisfaction from communicating science and ideas. Jocelyn believes science offers the best hope for her and her family’s future.
   image: /img/peeps/jocelyn_prasad.jpg
 
 - name: Andrea Finno
@@ -108,6 +108,11 @@
   description: Tammie is a proud Dunghutti and Bundjalung woman from Kempsey and graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as a graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
   image: /img/peeps/tammie_smith.jpg
 
+- name: Elizabeth Hallam
+  city: Canberra
+  description: Elizabeth is a human being who values evidence-based decision making where possible. She worked in the ICT sector before stopping to raise a family and complete her university studies. After completing a BSc, she rejoined the paid workforce and is currently working as a planning officer with ACT Health. She seeks to provide service to the community through her activities within the Public Service and in her personal time.
+  image: /img/peeps/elizabeth_hallam.jpeg
+
 # - name: Kristin Barry
 #   city: Perth
 
@@ -116,7 +121,5 @@
 
 # - name: Sean Geoghegan
 #   city: Canberra
-  
+
 # - name: Glen Jackson
-
-
