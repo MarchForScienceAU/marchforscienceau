@@ -120,7 +120,14 @@
 # - name: Amanda Dunne
 #   city: Brisbane
 
-# - name: Sean Geoghegan
-#   city: Canberra
+- name: Sean Geoghegan
+  city: Canberra
+  description: Sean is a medical physicist who works in Canberra and manages a team providing medical physics and radiation engineering services. He is interested in life and helping others, particularly those who access our healthcare system. Sean is a strong advocate for safety, quality and efficiency so that as many people can access appropriate technology to prevent, diagnose and treat disease. He joined March for Science to support good science communication, its understanding, its adoption as evidence for policy and its sustainable funding. He lives the experience of science really helping others.
+  image: /img/peeps/sean_geoghegan.jpg
 
 # - name: Glen Jackson
+
+- name: Emma Booth
+  city: Canberra
+  description: Emma is a pharmacist who has worked mainly in hospitals. Emma promotes the use of Evidence Based Medicine to help provide quality health care and has a strong belief in non-biased scientific evidence. Emma values diversity,  likes to help others and cares about the environment.
+  image: /img/peeps/emma_booth.jpg
