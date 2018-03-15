@@ -3,10 +3,10 @@
   description: Stuart is an Associate Professor in Civil and Environmental Engineering at the University of New South Wales. He has a passion for clean water, including water to drink, water to swim in and water for the environment.
   image: /img/peeps/stuart_khan.jpg
 
-- name: Erin Vaughn
-  city: Canberra
-  description: Erin is a molecular geneticist, passionate science educator and science advocate. As a recent immigrant to Australia and mother of two, she became involved in March for Science Australia to take part in standing up for the future of science in her adopted home.
-  image: /img/peeps/erin_vaughn.jpg
+# - name: Erin Vaughn
+#   city: Canberra
+#   description: Erin is a molecular geneticist, passionate science educator and science advocate. As a recent immigrant to Australia and mother of two, she became involved in March for Science Australia to take part in standing up for the future of science in her adopted home.
+#   image: /img/peeps/erin_vaughn.jpg
 
 - name: Danielle Asson
   city: Townsville
@@ -43,10 +43,10 @@
   description: Andrea is a microbiologist working in microbiome research, examining how gut bacteria can affect general health. She believes supporting universal scientific literacy and critical thinking through a strong public education system is vital.
   image: /img/peeps/andrea_leong.jpg
 
-- name: Jessie Andrikis
-  city: Canberra
-  description: Jessie is a Science graduate who is passionate about the importance of Science within the community. She became involved in the March for Science due to concern, as a future doctor, over the current societal opinions of science to show the public how imperative it is to the world.
-  image: /img/peeps/jessie_andrikis.jpg
+# - name: Jessie Andrikis
+#   city: Canberra
+#   description: Jessie is a Science graduate who is passionate about the importance of Science within the community. She became involved in the March for Science due to concern, as a future doctor, over the current societal opinions of science to show the public how imperative it is to the world.
+#   image: /img/peeps/jessie_andrikis.jpg
 
 - name: Gavrielle Untracht
   city: Perth
@@ -68,15 +68,15 @@
   description: Andrea is a software developer, problem solver and lifelong science enthusiast. Andrea would like to see a world where humans more critically consider their actions towards the Earth, its animals and themselves.
   image: /img/peeps/andrea_finno.jpg
 
-- name: Janet Salisbury
-  city: Canberra
-  description: Janet has a background in cancer research but some 20 years ago she changed career direction to science writing and editing and founded a science communications and publishing business that grew from 1 to 17 staff. She has recently handed over the business reins to pursue other interests.
-  image: /img/peeps/janet_salisbury.jpg
+# - name: Janet Salisbury
+#   city: Canberra
+#   description: Janet has a background in cancer research but some 20 years ago she changed career direction to science writing and editing and founded a science communications and publishing business that grew from 1 to 17 staff. She has recently handed over the business reins to pursue other interests.
+#   image: /img/peeps/janet_salisbury.jpg
 
-- name: Alena Kimbrough
-  city: Canberra
-  description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
-  image: /img/peeps/alena_kimbrough.jpg
+# - name: Alena Kimbrough
+#   city: Canberra
+#   description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
+#   image: /img/peeps/alena_kimbrough.jpg
 
 - name: Abigael Proctor
   city: Hobart
