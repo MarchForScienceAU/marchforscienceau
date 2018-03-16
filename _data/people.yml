@@ -18,12 +18,20 @@
 #   description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
 #   image: /img/peeps/alena_kimbrough.jpg
 
+- name: Aqeel Akber
+  position: Promotion Officer
+  city: Canberra
+  disciption: Aqeel is an experimental physicist at the Australian National University, and loves the scientific method. As a grateful 2nd generation immigrant, Aqeel got involved in Science March Australia to call for an ethical and scientific approach to all issues in our country.
+“Scientific debate requires empathy, respect, and a readiness to adjust your position -- this doesn’t mean it can’t get heated!”
+
 - name: Elizabeth Hallam
+  position: Lead Organiser
   city: Canberra
   description: Elizabeth is a human being who values evidence-based decision making where possible. She worked in the ICT sector before stopping to raise a family and complete her university studies. After completing a BSc, she rejoined the paid workforce and is currently working as a planning officer with ACT Health. She seeks to provide service to the community through her activities within the Public Service and in her personal time.
   image: /img/peeps/elizabeth_hallam.jpeg
 
 - name: Emma Booth
+  position: Advertising and Promotional Lead
   city: Canberra
   description: Emma is a pharmacist who has worked mainly in hospitals. Emma promotes the use of Evidence Based Medicine to help provide quality health care and has a strong belief in non-biased scientific evidence. Emma values diversity,  likes to help others and cares about the environment.
   image: /img/peeps/emma_booth.jpg
@@ -44,6 +52,7 @@
 #   image: /img/peeps/jessie_andrikis.jpg
 
 - name: Sean Geoghegan
+  position: National Committee Rep
   city: Canberra
   description: Sean is a medical physicist who works in Canberra and manages a team providing medical physics and radiation engineering services. He is interested in life and helping others, particularly those who access our healthcare system. Sean is a strong advocate for safety, quality and efficiency so that as many people can access appropriate technology to prevent, diagnose and treat disease. He joined March for Science to support good science communication, its understanding, its adoption as evidence for policy and its sustainable funding. He lives the experience of science really helping others.
   image: /img/peeps/sean_geoghegan.jpg
@@ -119,7 +128,7 @@
   description: Richard is the Friends of CSIRO Sydney Research Officer, a University of Sydney graduate with first class honours in Pure Mathematics, and a retired computer science software engineer. He believes investment in science and scientists is critical for developing a just and rational world and an Australia that can stand on its own feet.
   image: /img/peeps/richard_buckdale.jpg
 
-  - name: Stuart Khan
+- name: Stuart Khan
   city: Sydney
   description: Stuart is an Associate Professor in Civil and Environmental Engineering at the University of New South Wales. He has a passion for clean water, including water to drink, water to swim in and water for the environment.
   image: /img/peeps/stuart_khan.jpg
