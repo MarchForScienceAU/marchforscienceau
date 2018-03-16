@@ -13,10 +13,10 @@
 #   description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
 #   image: /img/peeps/alena_kimbrough.jpg
 
-- name: Alex Payne
-  city: Sydney
-  description: Alex is an undergraduate student studying biology and chemistry on exchange at UNSW. He is excited to work with the march to improve two-way science communication between the scientific community and the public, and to argue for evidence-based thinking as critical skill in education and for public policy.
-  image: /img/peeps/alex_payne.jpg
+# - name: Alex Payne
+#   city: Sydney
+#   description: Alex is an undergraduate student studying biology and chemistry on exchange at UNSW. He is excited to work with the march to improve two-way science communication between the scientific community and the public, and to argue for evidence-based thinking as critical skill in education and for public policy.
+#   image: /img/peeps/alex_payne.jpg
 
 - name: Andrea Finno
   city: Sydney
@@ -61,6 +61,11 @@
   description: Gavrielle is a PhD student at the University of Western Australia in the optical and biomedical imaging laboratory. She is excited to be contributing to the March for Science to affirm her dedication for using science and engineering to improve the world.
   image: /img/peeps/gavrielle_untracht.jpg
 
+- name: Haryana Dhillon
+  city: Sydney
+  description: Haryana Dhillon is a senior research fellow working in psycho-oncology and cancer survivorship. Evidence-based policy and a scientifically literate society are important to her, promoting awareness and discussion of these topics motivated her to get involved with March for Science.
+  image: /img/peeps/haryana_dhillon.png
+
 # - name: Janet Salisbury
 #   city: Canberra
 #   description: Janet has a background in cancer research but some 20 years ago she changed career direction to science writing and editing and founded a science communications and publishing business that grew from 1 to 17 staff. She has recently handed over the business reins to pursue other interests.
@@ -81,6 +86,11 @@
   city: Sydney
   description: Jocelyn is a PR professional who has worked for politicians, corporations and universities, and takes great satisfaction from communicating science and ideas. Jocelyn believes science offers the best hope for her and her family’s future.
   image: /img/peeps/jocelyn_prasad.jpg
+
+- name: Justin Murray
+  city: Canberra
+  description: Justin has a background in social science, sociology, in particular. Part of his training was to understand the way people understand and make sense of the world. A side effect was an understanding that science is our most reliable way of knowing the world and how it works. For this reason he wants to promote it.
+  image: /img/peeps/justin_murray.jpg
 
 - name: Kate Ferris
   city: Melbourne
@@ -127,6 +137,17 @@
   city: Sydney
   description: Tammie is a proud Dunghutti and Bundjalung woman from Kempsey and graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as a graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
   image: /img/peeps/tammie_smith.jpg
+
+- name: Taylor Szyszka
+  city: Sydney
+  description: Taylor is a PhD student in Biochemistry at the University of Sydney, though originally from Chicago, Illinois. Taylor has been a lifelong lover and communicator of science and believes that enhancing scientific literacy is one of the most powerful ways in which societies can progress. She is thrilled to be organizing the march again this year!
+  image: /img/peeps/taylor_szyszka.jpg
+
+- name: Tricia Copas
+  position:
+  city: Canberra
+  description: Tricia is a Science Support Assistant in the ACT Public School System. She has worked at CSIRO and ANU. She graduated in 2016 from ANU with a BSc Hons in Genetics. Previously she achieved a BSs from the University of Maryland USA, majoring in Biology and in Environmental Management. She balances supporting the advancement of scientific and mathematical education with caring for two children, and participating in a variety of volunteer organizations. Tricia has a diverse cultural heritage including indigenous North American and having immigrated and gained Australian Citizenship. Her passion is in assuring inclusion for all persons to have equal access to quality science and maths education.
+  image: /img/peeps/tricia_copas.jpg
 
 # - name: Vivien Csallo
 #   city: Brisbane
