@@ -1,7 +1,17 @@
+# - name: Abigael Proctor
+#   city: Hobart
+#   description: Abigael is a PhD candidate at the University of Tasmania, Institute of Marine and Antarctic Studies. She believes that by promoting science literacy and increasing opportunities for scientists to communicate their work it’ll empower the public to demand more evidence-based policy and see the value in science funding.
+#   image: /img/peeps/abigael_proctor.jpg
+
 - name: Adam Ford
   city: Melbourne
   description: Adam is working at Hanson Robotics/OpenCog, and part time at Bayesian Intelligence. He organises conferences & convenes meetings on science, technology and the future in Melbourne and sometimes abroad. He is passionate about artificial intelligence, and the long term future of sentience in the universe.
   image: /img/peeps/adam_ford.jpg
+
+# - name: Alena Kimbrough
+#   city: Canberra
+#   description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
+#   image: /img/peeps/alena_kimbrough.jpg
 
 - name: Alex Payne
   city: Sydney
@@ -21,7 +31,7 @@
 - name: Aqeel Akber
   position: Promotion Officer
   city: Canberra
-  disciption: Aqeel is an experimental physicist at the Australian National University, and loves the scientific method. As a grateful 2nd generation immigrant, Aqeel got involved in Science March Australia to call for an ethical and scientific approach to all issues in our country.
+  description: Aqeel is an experimental physicist at the Australian National University, and loves the scientific method. As a grateful 2nd generation immigrant, Aqeel got involved in Science March Australia to call for an ethical and scientific approach to all issues in our country.
 “Scientific debate requires empathy, respect, and a readiness to adjust your position -- this doesn’t mean it can’t get heated!”
 
 - name: Danielle Asson
@@ -41,16 +51,31 @@
   description: Emma is a pharmacist who has worked mainly in hospitals. Emma promotes the use of Evidence Based Medicine to help provide quality health care and has a strong belief in non-biased scientific evidence. Emma values diversity,  likes to help others and cares about the environment.
   image: /img/peeps/emma_booth.jpg
 
+# - name: Erin Vaughn
+#   city: Canberra
+#   description: Erin is a molecular geneticist, passionate science educator and science advocate. As a recent immigrant to Australia and mother of two, she became involved in March for Science Australia to take part in standing up for the future of science in her adopted home.
+#   image: /img/peeps/erin_vaughn.jpg
+
 - name: Gavrielle Untracht
   city: Perth
   description: Gavrielle is a PhD student at the University of Western Australia in the optical and biomedical imaging laboratory. She is excited to be contributing to the March for Science to affirm her dedication for using science and engineering to improve the world.
   image: /img/peeps/gavrielle_untracht.jpg
+
+# - name: Janet Salisbury
+#   city: Canberra
+#   description: Janet has a background in cancer research but some 20 years ago she changed career direction to science writing and editing and founded a science communications and publishing business that grew from 1 to 17 staff. She has recently handed over the business reins to pursue other interests.
+#   image: /img/peeps/janet_salisbury.jpg
 
 - name: Jin-oh Choi
   position: Lead Event Organizer
   city: Hobart & Launceston
   description: Jin-oh is President of the Launceston Skeptics Inc. and a science advocate who seeks to promote critical thinking and an understanding of the scientific method.
   image: /img/peeps/jin-oh_choi.jpg
+
+# - name: Jessie Andrikis
+#   city: Canberra
+#   description: Jessie is a Science graduate who is passionate about the importance of Science within the community. She became involved in the March for Science due to concern, as a future doctor, over the current societal opinions of science to show the public how imperative it is to the world.
+#   image: /img/peeps/jessie_andrikis.jpg
 
 - name: Jocelyn Prasad
   city: Sydney
@@ -61,6 +86,11 @@
   city: Melbourne
   description: Kate is a Human Ethics Officer and a member of the SAGE Athena Swan project at La Trobe University for the College of Science Technology and Engineering. With degrees in Psychology (Hons) from Deakin University and MA (Global) Public Health from the University of Melbourne, she is a mad passionate science supporter.
   image: /img/peeps/kate_ferris.jpg
+
+# - name: Katie Chartrand
+#   city: Cairns
+#   description: Katie Chartrand is a tropical marine scientist at James Cook University working on the drivers of marine plants in coastal habitats at risk from development along the Great Barrier Reef. She believes in strengthening the scientific community’s ties to the broader public through science communication and working in her field with regulators and industry to develop evidence-based policy.
+#   image: /img/peeps/katie_chartrand.jpg
 
 - name: Leen Labeeuw
   city: Sydney
@@ -97,36 +127,6 @@
   city: Sydney
   description: Tammie is a proud Dunghutti and Bundjalung woman from Kempsey and graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as a graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
   image: /img/peeps/tammie_smith.jpg
-
-# - name: Abigael Proctor
-#   city: Hobart
-#   description: Abigael is a PhD candidate at the University of Tasmania, Institute of Marine and Antarctic Studies. She believes that by promoting science literacy and increasing opportunities for scientists to communicate their work it’ll empower the public to demand more evidence-based policy and see the value in science funding.
-#   image: /img/peeps/abigael_proctor.jpg
-
-# - name: Alena Kimbrough
-#   city: Canberra
-#   description: Alena is a climate scientist who studies ancient monsoon behaviour using stalagmites from tropical caves. She is an active member in the March for Science because science is everywhere, affects everyone, and we must all get involved.
-#   image: /img/peeps/alena_kimbrough.jpg
-
-# - name: Erin Vaughn
-#   city: Canberra
-#   description: Erin is a molecular geneticist, passionate science educator and science advocate. As a recent immigrant to Australia and mother of two, she became involved in March for Science Australia to take part in standing up for the future of science in her adopted home.
-#   image: /img/peeps/erin_vaughn.jpg
-
-# - name: Janet Salisbury
-#   city: Canberra
-#   description: Janet has a background in cancer research but some 20 years ago she changed career direction to science writing and editing and founded a science communications and publishing business that grew from 1 to 17 staff. She has recently handed over the business reins to pursue other interests.
-#   image: /img/peeps/janet_salisbury.jpg
-
-# - name: Jessie Andrikis
-#   city: Canberra
-#   description: Jessie is a Science graduate who is passionate about the importance of Science within the community. She became involved in the March for Science due to concern, as a future doctor, over the current societal opinions of science to show the public how imperative it is to the world.
-#   image: /img/peeps/jessie_andrikis.jpg
-
-# - name: Katie Chartrand
-#   city: Cairns
-#   description: Katie Chartrand is a tropical marine scientist at James Cook University working on the drivers of marine plants in coastal habitats at risk from development along the Great Barrier Reef. She believes in strengthening the scientific community’s ties to the broader public through science communication and working in her field with regulators and industry to develop evidence-based policy.
-#   image: /img/peeps/katie_chartrand.jpg
 
 # - name: Vivien Csallo
 #   city: Brisbane
