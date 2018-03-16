@@ -93,10 +93,10 @@
   description: Justin has a background in social science, sociology, in particular. Part of his training was to understand the way people understand and make sense of the world. A side effect was an understanding that science is our most reliable way of knowing the world and how it works. For this reason he wants to promote it.
   image: /img/peeps/justin_murray.jpg
 
-- name: Kate Ferris
-  city: Melbourne
-  description: Kate is a Human Ethics Officer and a member of the SAGE Athena Swan project at La Trobe University for the College of Science Technology and Engineering. With degrees in Psychology (Hons) from Deakin University and MA (Global) Public Health from the University of Melbourne, she is a mad passionate science supporter.
-  image: /img/peeps/kate_ferris.jpg
+# - name: Kate Ferris
+#   city: Melbourne
+#   description: Kate is a Human Ethics Officer and a member of the SAGE Athena Swan project at La Trobe University for the College of Science Technology and Engineering. With degrees in Psychology (Hons) from Deakin University and MA (Global) Public Health from the University of Melbourne, she is a mad passionate science supporter.
+#   image: /img/peeps/kate_ferris.jpg
 
 # - name: Katie Chartrand
 #   city: Cairns
