@@ -4,7 +4,7 @@ adelaide:
   facebook: https://www.facebook.com/March-for-Science-Adelaide-1849879998599303/
   twitter: https://twitter.com/ScienceMarchADE
   email: adelaide@marchforscienceaustralia.org
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/664399-national
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/689746-adelaide
   # donation: https://donorbox.org/march-for-science-adelaide
 # bendigo:
 #   name: Bendigo
@@ -38,18 +38,21 @@ canberra:
   facebook: https://www.facebook.com/ScienceMarchCBR/
   twitter: https://twitter.com/ScienceMarchCBR
   email: canberra@marchforscienceaustralia.org
+  merch:https://www.redbubble.com/people/sciencemarchau/collections/664402-canberra
 hobart:
   name: Hobart
   website: /hobart
   facebook: https://www.facebook.com/MarchforScienceHobart
   twitter: https://twitter.com/ScienceMarchHbt
   email: hobart@marchforscienceaustralia.org
+  merch:https://www.redbubble.com/people/sciencemarchau/collections/664404-hobart
 launceston:
   name: Launceston
   website: /launceston
   facebook: https://www.facebook.com/MarchforScienceLaunceston/
   twitter: https://twitter.com/SciMarchLton
   email: launceston@marchforscienceaustralia.org
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/664405-launceston
   # eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-32582213277
 melbourne:
   name: Melbourne
@@ -93,7 +96,7 @@ townsville:
   twitter: https://twitter.com/ScienceMarchTSV
   email: townsville@marchforscienceaustralia.org
   # eventbrite: https://www.eventbrite.com.au/e/march-for-science-townsville-tickets-32583100932
-  merch: https://www.redbubble.com/people/sciencemarchau/collections/664400-sydney
+  merch: https://www.redbubble.com/people/sciencemarchau/collections/664403-townsville
   # donation: https://donorbox.org/march-for-science-sydney
 global:
   name: Global
