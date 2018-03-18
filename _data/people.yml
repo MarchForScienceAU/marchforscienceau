@@ -4,6 +4,7 @@
 #   image: /img/peeps/abigael_proctor.jpg
 
 - name: Adam Ford
+  position: Volunteer
   city: Melbourne
   description: Adam is working at Hanson Robotics/OpenCog, and part time at Bayesian Intelligence. He organises conferences & convenes meetings on science, technology and the future in Melbourne and sometimes abroad. He is passionate about artificial intelligence, and the long term future of sentience in the universe.
   image: /img/peeps/adam_ford.jpg
@@ -19,11 +20,13 @@
 #   image: /img/peeps/alex_payne.jpg
 
 - name: Andrea Finno
+  position: Volunteer
   city: Sydney
   description: Andrea is a software developer, problem solver and lifelong science enthusiast. Andrea would like to see a world where humans more critically consider their actions towards the Earth, its animals and themselves.
   image: /img/peeps/andrea_finno.jpg
 
 - name: Andrea Leong
+  position: Volunteer
   city: Sydney
   description: Andrea is a microbiologist working in microbiome research, examining how gut bacteria can affect general health. She believes supporting universal scientific literacy and critical thinking through a strong public education system is vital.
   image: /img/peeps/andrea_leong.jpg
@@ -58,11 +61,13 @@
 #   image: /img/peeps/erin_vaughn.jpg
 
 - name: Gavrielle Untracht
+  position: Volunteer
   city: Perth
   description: Gavrielle is a PhD student at the University of Western Australia in the optical and biomedical imaging laboratory. She is excited to be contributing to the March for Science to affirm her dedication for using science and engineering to improve the world.
   image: /img/peeps/gavrielle_untracht.jpg
 
 - name: Haryana Dhillon
+  position: Volunteer
   city: Sydney
   description: Haryana Dhillon is a senior research fellow working in psycho-oncology and cancer survivorship. Evidence-based policy and a scientifically literate society are important to her, promoting awareness and discussion of these topics motivated her to get involved with March for Science.
   image: /img/peeps/haryana_dhillon.png
@@ -84,11 +89,13 @@
 #   image: /img/peeps/jessie_andrikis.jpg
 
 - name: Jocelyn Prasad
+  position: Volunteer
   city: Sydney
   description: Jocelyn is a PR professional who has worked for politicians, corporations and universities, and takes great satisfaction from communicating science and ideas. Jocelyn believes science offers the best hope for her and her family’s future.
   image: /img/peeps/jocelyn_prasad.jpg
 
 - name: Justin Murray
+  position: Volunteer
   city: Canberra
   description: Justin has a background in social science, sociology, in particular. Part of his training was to understand the way people understand and make sense of the world. A side effect was an understanding that science is our most reliable way of knowing the world and how it works. For this reason he wants to promote it.
   image: /img/peeps/justin_murray.jpg
@@ -104,6 +111,7 @@
 #   image: /img/peeps/katie_chartrand.jpg
 
 - name: Leen Labeeuw
+  position: Volunteer
   city: Sydney
   description: Leen is a biologist/engineer designing algal photobioreactors for large scale use. She believes that understanding science is an essential aspect that should inform our decisions, both personally and politically.
   image: /img/peeps/leen_labeeuw.jpg
@@ -115,16 +123,19 @@
   image: /img/peeps/liz_norsa.jpg
 
 - name: Luke James
+  position: Volunteer
   city: Melbourne
   description: Luke has a background in science and politics. He has a Bachelor of Science and is passionate about seeing science become a greater focus of our political system.
   image: /img/peeps/luke_james.jpg
 
 - name: Matt Nurse
+  position: Volunteer
   city: Melbourne
   description: Matt is a communications director and science fan. Matt has a masters degree in communications and is passionate about science communication, and turning facts and evidence into public policy.
   image: /img/peeps/matt_nurse.jpg
 
 - name: Richard Buckdale
+  position: Volunteer
   city: Sydney
   description: Richard is the Friends of CSIRO Sydney Research Officer, a University of Sydney graduate with first class honours in Pure Mathematics, and a retired computer science software engineer. He believes investment in science and scientists is critical for developing a just and rational world and an Australia that can stand on its own feet.
   image: /img/peeps/richard_buckdale.jpg
@@ -136,16 +147,19 @@
   image: /img/peeps/sean_geoghegan.jpg
 
 - name: Stuart Khan
+  position: Volunteer
   city: Sydney
   description: Stuart is an Associate Professor in Civil and Environmental Engineering at the University of New South Wales. He has a passion for clean water, including water to drink, water to swim in and water for the environment.
   image: /img/peeps/stuart_khan.jpg
 
 - name: Tammie Smith
+  position: Volunteer
   city: Sydney
   description: Tammie is a proud Dunghutti and Bundjalung woman from Kempsey and graduated from UNSW in Criminology and Indigenous studies. Currently works at the University of Sydney as a graduate data analyst officer. She is involved with March for Science Australia to promote the importance of Indigenous knowledge through natural ecological sustainability of the environment and its biodiversity by adopting Aboriginal and Torres Strait Islander methodologies of ecological preservation and promote Indigenous career opportunities within the disciplines of sciences.
   image: /img/peeps/tammie_smith.jpg
 
 - name: Taylor Szyszka
+  position: Volunteer
   city: Sydney
   description: Taylor is a PhD student in Biochemistry at the University of Sydney, though originally from Chicago, Illinois. Taylor has been a lifelong lover and communicator of science and believes that enhancing scientific literacy is one of the most powerful ways in which societies can progress. She is thrilled to be organizing the march again this year!
   image: /img/peeps/taylor_szyszka.jpg
