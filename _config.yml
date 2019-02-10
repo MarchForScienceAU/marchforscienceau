@@ -30,7 +30,7 @@ collections:
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap
 exclude:
   - Gemfile
