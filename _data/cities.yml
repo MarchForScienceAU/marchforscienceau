@@ -50,12 +50,12 @@ hobart:
 #  eventbrite: https://www.eventbrite.com.au/e/march-for-science-hobart-tickets-44544588062
 #  merch: https://www.redbubble.com/people/sciencemarchau/collections/664404-hobart
 #  donation: https://donorbox.org/march-for-science-hobart
-launceston:
-  name: Launceston
+# launceston:
+#  name: Launceston
 #  website: /launceston
-  facebook: https://www.facebook.com/MarchforScienceLaunceston/
-  twitter: https://twitter.com/SciMarchLton
-  email: launceston@marchforscienceaustralia.org
+#  facebook: https://www.facebook.com/MarchforScienceLaunceston/
+#  twitter: https://twitter.com/SciMarchLton
+#  email: launceston@marchforscienceaustralia.org
 #  merch: https://www.redbubble.com/people/sciencemarchau/collections/664405-launceston
 #  donation: https://donorbox.org/march-for-science-launceston-1
 #  eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-44715582511
@@ -81,10 +81,10 @@ perth:
 #  eventbrite: https://www.eventbrite.com.au/e/march-for-science-perth-tickets-32582830122
 #  merch: https://www.redbubble.com/people/sciencemarchau/collections/664407-perth
 #  donation: https://donorbox.org/march-for-science-perth
-# portmac:
-#   name: Port Macquarie
-#   facebook: https://www.facebook.com/mfspm2017/
-#   email: info@marchforscienceaustralia.org
+portmac:
+  name: Port Macquarie
+  facebook: https://www.facebook.com/mfspm2019/
+  email: info@marchforscienceaustralia.org
 #sydney:
 #  name: Sydney
 #  website: /sydney
