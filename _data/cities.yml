@@ -61,10 +61,15 @@ hobart:
 #  eventbrite: https://www.eventbrite.com.au/e/march-for-science-launceston-tickets-44715582511
 melbourne:
   name: Melbourne
-#  website: /melbourne
+  website: /melbourne
   facebook: https://www.facebook.com/MarchForScienceMelbourne/
   twitter: https://twitter.com/ScienceMarchMel
   email: melbourne@marchforscienceaustralia.org
+  location:
+    venue: The Royal Society Of Victoria
+  date: Saturday 4 May 2019
+  time: 1:00 PM - 3:00 PM AEST
+
 #  eventbrite: https://www.eventbrite.com.au/e/march-for-science-melbourne-2018-tickets-44828696839
 #  merch: https://www.redbubble.com/people/sciencemarchau/collections/664401-melbourne
 #  donation: https://donorbox.org/march-for-science-melbourne-2
